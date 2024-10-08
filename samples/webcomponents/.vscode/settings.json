@@ -1,0 +1,6 @@
+{
+  "html.customData": [
+    "./src/web-components.html-data.json",
+    "./node_modules/@github/time-elements/web-components.html-data.json"
+  ]
+}

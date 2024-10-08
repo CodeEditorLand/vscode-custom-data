@@ -1,70 +1,59 @@
 export function sleep(ms: number) {
-	return new Promise<void>((resolve) => {
+	return new Promise<void>(resolve => {
 		setTimeout(() => {
-			resolve();
-		}, ms);
-	});
+			resolve()
+		}, ms)
+	})
 }
 
-const browserNames: { [browser: string]: string } = {
-	E: "Edge",
-	FF: "Firefox",
-	S: "Safari",
-	C: "Chrome",
-	IE: "IE",
-	O: "Opera",
-};
+const browserNames : { [browser: string]: string }= {
+	E: 'Edge',
+	FF: 'Firefox',
+	S: 'Safari',
+	C: 'Chrome',
+	IE: 'IE',
+	O: 'Opera'
+}
 
-export function toCompatString(bcdProperty: any): string[] {
-	let s: string[] = [];
+export function toCompatString(bcdProperty: any) :string[] {
+	let s : string[] = []
 
 	if (bcdProperty.__compat) {
 		Object.keys(browserNames).forEach((abbrev) => {
-			const browserName = browserNames[abbrev].toLowerCase();
-			const browserSupport = bcdProperty.__compat.support[browserName];
+			const browserName = browserNames[abbrev].toLowerCase()
+			const browserSupport = bcdProperty.__compat.support[browserName]
 			if (browserSupport) {
-				const shortCompatString = supportToShortCompatString(
-					browserSupport,
-					abbrev,
-				);
+				const shortCompatString = supportToShortCompatString(browserSupport, abbrev)
 				if (shortCompatString) {
-					s.push(shortCompatString);
+					s.push(shortCompatString)
 				}
 			}
-		});
+		})
 	} else {
 		Object.keys(browserNames).forEach((abbrev) => {
-			const browserName = browserNames[abbrev].toLowerCase();
+			const browserName = browserNames[abbrev].toLowerCase()
 
 			// Select the most recent versions from all contexts as the short compat string
-			let shortCompatStringAggregatedFromContexts: string | undefined;
+			let shortCompatStringAggregatedFromContexts : string | undefined;
 
-			Object.keys(bcdProperty).forEach((contextName) => {
-				const context = bcdProperty[contextName];
+			Object.keys(bcdProperty).forEach(contextName => {
+				const context = bcdProperty[contextName]
 				if (context.__compat && context.__compat.support[browserName]) {
-					const browserSupport =
-						context.__compat.support[browserName];
-					const shortCompatString = supportToShortCompatString(
-						browserSupport,
-						abbrev,
-					);
-					if (
-						!shortCompatStringAggregatedFromContexts ||
-						shortCompatString >
-							shortCompatStringAggregatedFromContexts
-					) {
-						shortCompatStringAggregatedFromContexts =
-							shortCompatString;
+					const browserSupport = context.__compat.support[browserName]
+					const shortCompatString = supportToShortCompatString(browserSupport, abbrev)
+					if (!shortCompatStringAggregatedFromContexts || shortCompatString > shortCompatStringAggregatedFromContexts) {
+						shortCompatStringAggregatedFromContexts = shortCompatString
 					}
 				}
-			});
+			})
 
 			if (shortCompatStringAggregatedFromContexts) {
-				s.push(shortCompatStringAggregatedFromContexts);
+				s.push(shortCompatStringAggregatedFromContexts)
 			}
-		});
+		})
+
 	}
-	return s;
+  return s;
 }
 
 /**
@@ -73,43 +62,38 @@ export function toCompatString(bcdProperty: any): string[] {
 export function isSupportedInAllBrowsers(bcdProperty: any) {
 	if (bcdProperty.__compat) {
 		return Object.keys(browserNames).every((abbrev) => {
-			const browserName = browserNames[abbrev].toLowerCase();
-			if (
-				bcdProperty.__compat &&
-				bcdProperty.__compat.support[browserName]
-			) {
-				const browserSupport =
-					bcdProperty.__compat.support[browserName];
+			const browserName = browserNames[abbrev].toLowerCase()
+			if (bcdProperty.__compat && bcdProperty.__compat.support[browserName]) {
+				const browserSupport = bcdProperty.__compat.support[browserName]
 				if (browserSupport) {
-					return isSupported(browserSupport);
+					return isSupported(browserSupport)
 				}
 			}
 
-			return false;
-		});
+			return false
+		})
 	} else {
 		return Object.keys(browserNames).every((abbrev) => {
-			const browserName = browserNames[abbrev].toLowerCase();
+			const browserName = browserNames[abbrev].toLowerCase()
 
-			return Object.keys(bcdProperty).some((contextName) => {
-				const context = bcdProperty[contextName];
+			return Object.keys(bcdProperty).some(contextName => {
+				const context = bcdProperty[contextName]
 				if (context.__compat && context.__compat.support[browserName]) {
-					const browserSupport =
-						context.__compat.support[browserName];
+					const browserSupport = context.__compat.support[browserName]
 					if (browserSupport) {
-						return isSupported(browserSupport);
+						return isSupported(browserSupport)
 					}
 				}
 
-				return false;
-			});
-		});
+				return false
+			})
+		})
 	}
 }
 
 /**
  * https://github.com/mdn/browser-compat-data/blob/master/schemas/compat-data-schema.md
- *
+ * 
  * Convert a support statement to a short compat string.
  * For example:
  * { "ie": { "version_added": "6.0" } } => "IE6.0"
@@ -129,41 +113,41 @@ export function isSupportedInAllBrowsers(bcdProperty: any) {
  * } => "FF6"
  */
 function supportToShortCompatString(support: any, browserAbbrev: any) {
-	let version_added;
-	if (Array.isArray(support) && support[0] && support[0].version_added) {
-		version_added = support[0].version_added;
-	} else if (support.version_added) {
-		version_added = support.version_added;
-	}
+  let version_added
+  if (Array.isArray(support) && support[0] && support[0].version_added) {
+    version_added = support[0].version_added
+  } else if (support.version_added) {
+    version_added = support.version_added
+  }
 
-	if (version_added) {
-		if (typeof version_added === "boolean") {
-			return browserAbbrev;
-		} else {
-			return `${browserAbbrev}${version_added}`;
-		}
-	}
+  if (version_added) {
+    if (typeof(version_added) === 'boolean') {
+      return browserAbbrev
+    } else {
+      return `${browserAbbrev}${version_added}`
+    }
+  }
 
-	return null;
+  return null
 }
 
 function isSupported(support: any) {
-	let version_added;
-	if (Array.isArray(support) && support[0] && support[0].version_added) {
-		version_added = support[0].version_added;
-	} else if (support.version_added) {
-		version_added = support.version_added;
-	}
+  let version_added
+  if (Array.isArray(support) && support[0] && support[0].version_added) {
+    version_added = support[0].version_added
+  } else if (support.version_added) {
+    version_added = support.version_added
+  }
 
-	if (version_added) {
-		if (typeof version_added === "boolean") {
-			return version_added;
-		} else if (typeof version_added === "string") {
-			if (typeof parseInt(version_added) === "number") {
-				return true;
-			}
-		}
-	}
+  if (version_added) {
+    if (typeof(version_added) === 'boolean') {
+      return version_added
+    } else if (typeof(version_added) === 'string') {
+      if (typeof(parseInt(version_added)) === 'number') {
+        return true
+      }
+    }
+  }
 
-	return false;
+  return false
 }
