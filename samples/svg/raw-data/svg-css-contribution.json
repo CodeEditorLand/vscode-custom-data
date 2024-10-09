@@ -1,2567 +1,2317 @@
 {
-  "version": 1.1,
-  "properties": [
-    {
-      "name": "alignment-baseline",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
-        }
-      ]
-    },
-    {
-      "name": "baseline-shift",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
-        }
-      ]
-    },
-    {
-      "name": "color",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ColorProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<color>"
-    },
-    {
-      "name": "color-interpolation",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
-        }
-      ]
-    },
-    {
-      "name": "color-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
-        }
-      ]
-    },
-    {
-      "name": "cursor",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-ui-3/#cursor"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ [ <url> [ <x> <y> ]? , ]* [ auto | default | none | context-menu | help | pointer | progress | wait | cell | crosshair | text | vertical-text | alias | copy | move | no-drop | not-allowed | e-resize | n-resize | ne-resize | nw-resize | s-resize | se-resize | sw-resize | w-resize | ew-resize | ns-resize | nesw-resize | nwse-resize | col-resize | row-resize | all-scroll | zoom-in | zoom-out | grab | grabbing ] ]"
-    },
-    {
-      "name": "dominant-baseline",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
-        }
-      ]
-    },
-    {
-      "name": "fill",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#FillProperty"
-        }
-      ]
-    },
-    {
-      "name": "fill-opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
-        }
-      ]
-    },
-    {
-      "name": "fill-rule",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
-        }
-      ]
-    },
-    {
-      "name": "glyph-orientation-horizontal",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
-        }
-      ]
-    },
-    {
-      "name": "glyph-orientation-vertical",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
-        }
-      ]
-    },
-    {
-      "name": "image-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | crisp-edges | pixelated",
-      "browsers": [
-        "E79",
-        "FF3.6",
-        "S6",
-        "C13",
-        "O15"
-      ]
-    },
-    {
-      "name": "inline-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<'width'>",
-      "browsers": [
-        "E79",
-        "FF41",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "marker",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerProperty"
-        }
-      ]
-    },
-    {
-      "name": "marker-end",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
-        }
-      ]
-    },
-    {
-      "name": "marker-mid",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
-        }
-      ]
-    },
-    {
-      "name": "marker-start",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
-        }
-      ]
-    },
-    {
-      "name": "overflow",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ visible | hidden | clip | scroll | auto ]{1,2}"
-    },
-    {
-      "name": "paint-order",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | [ fill || stroke || markers ]",
-      "browsers": [
-        "E17",
-        "FF60",
-        "S8",
-        "C35",
-        "O22"
-      ]
-    },
-    {
-      "name": "pointer-events",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | none | visiblePainted | visibleFill | visibleStroke | visible | painted | fill | stroke | all | inherit"
-    },
-    {
-      "name": "shape-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
-        }
-      ]
-    },
-    {
-      "name": "stop-color",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
-        }
-      ]
-    },
-    {
-      "name": "stop-opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-dasharray",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-dashoffset",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-linecap",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-linejoin",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-miterlimit",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
-        }
-      ]
-    },
-    {
-      "name": "text-anchor",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
-        }
-      ]
-    },
-    {
-      "name": "text-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | optimizeSpeed | optimizeLegibility | geometricPrecision",
-      "browsers": [
-        "E79",
-        "FF1",
-        "S5",
-        "C4",
-        "O15"
-      ]
-    },
-    {
-      "name": "transform",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | <transform-list>"
-    },
-    {
-      "name": "vector-effect",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
-        }
-      ]
-    },
-    {
-      "name": "x",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#XProperty"
-        }
-      ]
-    },
-    {
-      "name": "y",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#YProperty"
-        }
-      ]
-    },
-    {
-      "name": "cx",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#CxProperty"
-        }
-      ]
-    },
-    {
-      "name": "cy",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#CyProperty"
-        }
-      ]
-    },
-    {
-      "name": "r",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#RProperty"
-        }
-      ]
-    },
-    {
-      "name": "rx",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#RxProperty"
-        }
-      ]
-    },
-    {
-      "name": "ry",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#RyProperty"
-        }
-      ]
-    },
-    {
-      "name": "d",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/paths.html#DProperty"
-        }
-      ]
-    },
-    {
-      "name": "display",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <display-outside> || <display-inside> ] | <display-listitem> | <display-internal> | <display-box> | <display-legacy>"
-    },
-    {
-      "name": "opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<alpha-value>"
-    },
-    {
-      "name": "visibility",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
-        }
-      ],
-      "status": "standard",
-      "syntax": "visible | hidden | collapse"
-    },
-    {
-      "name": "height",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "line-height",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#LineHeightProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <number> | <length> | <percentage>"
-    },
-    {
-      "name": "shape-image-threshold",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<alpha-value>",
-      "browsers": [
-        "E79",
-        "FF62",
-        "S10.1",
-        "C37",
-        "O24"
-      ]
-    },
-    {
-      "name": "shape-inside",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeInside"
-        }
-      ]
-    },
-    {
-      "name": "shape-margin",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeMargin"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<length-percentage>",
-      "browsers": [
-        "E79",
-        "FF62",
-        "S10.1",
-        "C37",
-        "O24"
-      ]
-    },
-    {
-      "name": "shape-subtract",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
-        }
-      ]
-    },
-    {
-      "name": "shape-padding",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapePadding"
-        }
-      ]
-    },
-    {
-      "name": "text-overflow",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ clip | ellipsis | <string> ]{1,2}"
-    },
-    {
-      "name": "font-kerning",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | normal | none",
-      "browsers": [
-        "E79",
-        "FF32",
-        "S9",
-        "C33",
-        "O20"
-      ]
-    },
-    {
-      "name": "font",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ [ <'font-style'> || <font-variant-css21> || <'font-weight'> || <'font-stretch'> ]? <'font-size'> [ / <'line-height'> ]? <'font-family'> ] | caption | icon | menu | message-box | small-caption | status-bar"
-    },
-    {
-      "name": "font-family",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-family-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <family-name> | <generic-family> ]#"
-    },
-    {
-      "name": "font-feature-settings",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <feature-tag-value>#"
-    },
-    {
-      "name": "font-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-size-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<absolute-size> | <relative-size> | <length-percentage>"
-    },
-    {
-      "name": "font-size-adjust",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ ex-height | cap-height | ch-width | ic-width | ic-height ]? [ from-font | <number> ]",
-      "browsers": [
-        "FF3",
-        "S16.4"
-      ]
-    },
-    {
-      "name": "font-stretch",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<font-stretch-absolute>"
-    },
-    {
-      "name": "font-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-style-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | italic | oblique <angle>?"
-    },
-    {
-      "name": "font-variant",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> || stylistic( <feature-value-name> ) || historical-forms || styleset( <feature-value-name># ) || character-variant( <feature-value-name># ) || swash( <feature-value-name> ) || ornaments( <feature-value-name> ) || annotation( <feature-value-name> ) || [ small-caps | all-small-caps | petite-caps | all-petite-caps | unicase | titling-caps ] || <numeric-figure-values> || <numeric-spacing-values> || <numeric-fraction-values> || ordinal || slashed-zero || <east-asian-variant-values> || <east-asian-width-values> || ruby ]"
-    },
-    {
-      "name": "font-variant-ligatures",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> ]",
-      "browsers": [
-        "E79",
-        "FF34",
-        "S9.1",
-        "C34",
-        "O21"
-      ]
-    },
-    {
-      "name": "font-weight",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-weight-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<font-weight-absolute> | bolder | lighter"
-    },
-    {
-      "name": "hanging-punctuation",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ first || [ force-end | allow-end ] || last ]",
-      "browsers": [
-        "S10"
-      ]
-    },
-    {
-      "name": "hyphens",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#hyphens-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | manual | auto"
-    },
-    {
-      "name": "letter-spacing",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#letter-spacing-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <length>"
-    },
-    {
-      "name": "line-break",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#line-break-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | loose | normal | strict | anywhere"
-    },
-    {
-      "name": "overflow-wrap",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | break-word | anywhere"
-    },
-    {
-      "name": "tab-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#tab-size-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<integer> | <length>",
-      "browsers": [
-        "E79",
-        "FF91",
-        "S7",
-        "C21",
-        "O15"
-      ]
-    },
-    {
-      "name": "text-align",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-align-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "start | end | left | right | center | justify | match-parent"
-    },
-    {
-      "name": "text-align-last",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-align-last-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | start | end | left | right | center | justify"
-    },
-    {
-      "name": "text-indent",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-indent-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<length-percentage> && hanging? && each-line?"
-    },
-    {
-      "name": "text-justify",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-justify-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | inter-character | inter-word | none",
-      "browsers": [
-        "E79",
-        "FF55",
-        "C32",
-        "IE11",
-        "O19"
-      ]
-    },
-    {
-      "name": "text-transform",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-transform-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
-    },
-    {
-      "name": "white-space",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#white-space-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | pre | nowrap | pre-wrap | pre-line | break-spaces | [ <'white-space-collapse'> || <'text-wrap'> || <'white-space-trim'> ]"
-    },
-    {
-      "name": "word-break",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#word-break-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | break-all | keep-all | break-word"
-    },
-    {
-      "name": "word-spacing",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#word-spacing-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <length>"
-    },
-    {
-      "name": "word-wrap",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | break-word"
-    },
-    {
-      "name": "vertical-align",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-inline/#transverse-alignment"
-        }
-      ],
-      "status": "standard",
-      "syntax": "baseline | sub | super | text-top | text-bottom | middle | top | bottom | <percentage> | <length>"
-    },
-    {
-      "name": "direction",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#DirectionProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "ltr | rtl"
-    },
-    {
-      "name": "unicode-bidi",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | embed | isolate | bidi-override | isolate-override | plaintext"
-    },
-    {
-      "name": "writing-mode",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#WritingModeProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "horizontal-tb | vertical-rl | vertical-lr | sideways-rl | sideways-lr"
-    },
-    {
-      "name": "text-orientation",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css3-writing-modes/#text-orientation"
-        }
-      ],
-      "status": "standard",
-      "syntax": "mixed | upright | sideways",
-      "browsers": [
-        "E79",
-        "FF41",
-        "S14",
-        "C48",
-        "O35"
-      ]
-    },
-    {
-      "name": "text-combine-upright",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | all | [ digits <integer>? ]"
-    },
-    {
-      "name": "text-decoration",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<'text-decoration-line'> || <'text-decoration-style'> || <'text-decoration-color'> || <'text-decoration-thickness'>"
-    },
-    {
-      "name": "text-decoration-line",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ underline || overline || line-through || blink ] | spelling-error | grammar-error",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "text-decoration-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "solid | double | dotted | dashed | wavy",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "text-decoration-color",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<color>",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "object-fit",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css3-images/#the-object-fit"
-        }
-      ],
-      "status": "standard",
-      "syntax": "fill | contain | cover | none | scale-down",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S10",
-        "C32",
-        "O19"
-      ]
-    },
-    {
-      "name": "object-position",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css3-images/#the-object-position"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<position>",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S10",
-        "C32",
-        "O19"
-      ]
-    },
-    {
-      "name": "outline",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-ui-4/#propdef-outline"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <'outline-color'> || <'outline-style'> || <'outline-width'> ]"
-    },
-    {
-      "name": "position",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-position-3/#propdef-position"
-        }
-      ],
-      "status": "standard",
-      "syntax": "static | relative | absolute | sticky | fixed"
-    },
-    {
-      "name": "text-transform",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#propdef-text-transform"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
-    },
-    {
-      "name": "border-top-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<line-style>"
-    },
-    {
-      "name": "border-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<line-style>{1,4}"
-    },
-    {
-      "name": "float",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/CSS21/visuren.html#propdef-float"
-        }
-      ],
-      "status": "standard",
-      "syntax": "left | right | none | inline-start | inline-end"
-    },
-    {
-      "name": "margin-top",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-box-3/#propdef-margin-top"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<length> | <percentage> | auto"
-    },
-    {
-      "name": "content",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-content-3/#propdef-content"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | none | [ <content-replacement> | <content-list> ] [/ [ <string> | <counter> ]+ ]?"
-    },
-    {
-      "name": "transform-box",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-transforms/#transform-box"
-        }
-      ],
-      "status": "standard",
-      "syntax": "content-box | border-box | fill-box | stroke-box | view-box",
-      "browsers": [
-        "E79",
-        "FF55",
-        "S11",
-        "C64",
-        "O51"
-      ]
-    },
-    {
-      "name": "transform-origin",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-transforms/#transform-origin-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <length-percentage> | left | center | right | top | bottom ] | [ [ <length-percentage> | left | center | right ] && [ <length-percentage> | top | center | bottom ] ] <length>?"
-    },
-    {
-      "name": "will-change",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-will-change/#will-change"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <animateable-feature>#",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S9.1",
-        "C36",
-        "O24"
-      ]
-    },
-    {
-      "name": "background",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-backgrounds-3/#background"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <bg-layer> , ]* <final-bg-layer>"
-    },
-    {
-      "name": "min-width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-sizing-3/#propdef-min-width"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "max-width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-sizing-3/#propdef-max-width"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | <length-percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "block-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<'width'>",
-      "browsers": [
-        "E79",
-        "FF41",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "shape-outside",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-shapes/#shape-outside-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ <shape-box> || <basic-shape> ] | <image>",
-      "browsers": [
-        "E79",
-        "FF62",
-        "S10.1",
-        "C37",
-        "O24"
-      ]
-    },
-    {
-      "name": "alignment-baseline",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
-        }
-      ]
-    },
-    {
-      "name": "baseline-shift",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
-        }
-      ]
-    },
-    {
-      "name": "color",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ColorProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<color>"
-    },
-    {
-      "name": "color-interpolation",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
-        }
-      ]
-    },
-    {
-      "name": "color-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
-        }
-      ]
-    },
-    {
-      "name": "cursor",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-ui-3/#cursor"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ [ <url> [ <x> <y> ]? , ]* [ auto | default | none | context-menu | help | pointer | progress | wait | cell | crosshair | text | vertical-text | alias | copy | move | no-drop | not-allowed | e-resize | n-resize | ne-resize | nw-resize | s-resize | se-resize | sw-resize | w-resize | ew-resize | ns-resize | nesw-resize | nwse-resize | col-resize | row-resize | all-scroll | zoom-in | zoom-out | grab | grabbing ] ]"
-    },
-    {
-      "name": "dominant-baseline",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
-        }
-      ]
-    },
-    {
-      "name": "fill",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#FillProperty"
-        }
-      ]
-    },
-    {
-      "name": "fill-opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
-        }
-      ]
-    },
-    {
-      "name": "fill-rule",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
-        }
-      ]
-    },
-    {
-      "name": "glyph-orientation-horizontal",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
-        }
-      ]
-    },
-    {
-      "name": "glyph-orientation-vertical",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
-        }
-      ]
-    },
-    {
-      "name": "image-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | crisp-edges | pixelated",
-      "browsers": [
-        "E79",
-        "FF3.6",
-        "S6",
-        "C13",
-        "O15"
-      ]
-    },
-    {
-      "name": "inline-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<'width'>",
-      "browsers": [
-        "E79",
-        "FF41",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "marker",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerProperty"
-        }
-      ]
-    },
-    {
-      "name": "marker-end",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
-        }
-      ]
-    },
-    {
-      "name": "marker-mid",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
-        }
-      ]
-    },
-    {
-      "name": "marker-start",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
-        }
-      ]
-    },
-    {
-      "name": "overflow",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ visible | hidden | clip | scroll | auto ]{1,2}"
-    },
-    {
-      "name": "paint-order",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | [ fill || stroke || markers ]",
-      "browsers": [
-        "E17",
-        "FF60",
-        "S8",
-        "C35",
-        "O22"
-      ]
-    },
-    {
-      "name": "pointer-events",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | none | visiblePainted | visibleFill | visibleStroke | visible | painted | fill | stroke | all | inherit"
-    },
-    {
-      "name": "shape-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
-        }
-      ]
-    },
-    {
-      "name": "stop-color",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
-        }
-      ]
-    },
-    {
-      "name": "stop-opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-dasharray",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-dashoffset",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-linecap",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-linejoin",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-miterlimit",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
-        }
-      ]
-    },
-    {
-      "name": "stroke-width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
-        }
-      ]
-    },
-    {
-      "name": "text-anchor",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
-        }
-      ]
-    },
-    {
-      "name": "text-rendering",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | optimizeSpeed | optimizeLegibility | geometricPrecision",
-      "browsers": [
-        "E79",
-        "FF1",
-        "S5",
-        "C4",
-        "O15"
-      ]
-    },
-    {
-      "name": "transform",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | <transform-list>"
-    },
-    {
-      "name": "vector-effect",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
-        }
-      ]
-    },
-    {
-      "name": "x",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#XProperty"
-        }
-      ]
-    },
-    {
-      "name": "y",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#YProperty"
-        }
-      ]
-    },
-    {
-      "name": "cx",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#CxProperty"
-        }
-      ]
-    },
-    {
-      "name": "cy",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#CyProperty"
-        }
-      ]
-    },
-    {
-      "name": "r",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#RProperty"
-        }
-      ]
-    },
-    {
-      "name": "rx",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#RxProperty"
-        }
-      ]
-    },
-    {
-      "name": "ry",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#RyProperty"
-        }
-      ]
-    },
-    {
-      "name": "d",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/paths.html#DProperty"
-        }
-      ]
-    },
-    {
-      "name": "display",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <display-outside> || <display-inside> ] | <display-listitem> | <display-internal> | <display-box> | <display-legacy>"
-    },
-    {
-      "name": "opacity",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<alpha-value>"
-    },
-    {
-      "name": "visibility",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
-        }
-      ],
-      "status": "standard",
-      "syntax": "visible | hidden | collapse"
-    },
-    {
-      "name": "height",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "line-height",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#LineHeightProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <number> | <length> | <percentage>"
-    },
-    {
-      "name": "shape-image-threshold",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<alpha-value>",
-      "browsers": [
-        "E79",
-        "FF62",
-        "S10.1",
-        "C37",
-        "O24"
-      ]
-    },
-    {
-      "name": "shape-inside",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeInside"
-        }
-      ]
-    },
-    {
-      "name": "shape-margin",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeMargin"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<length-percentage>",
-      "browsers": [
-        "E79",
-        "FF62",
-        "S10.1",
-        "C37",
-        "O24"
-      ]
-    },
-    {
-      "name": "shape-subtract",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
-        }
-      ]
-    },
-    {
-      "name": "shape-padding",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextShapePadding"
-        }
-      ]
-    },
-    {
-      "name": "text-overflow",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ clip | ellipsis | <string> ]{1,2}"
-    },
-    {
-      "name": "font-kerning",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | normal | none",
-      "browsers": [
-        "E79",
-        "FF32",
-        "S9",
-        "C33",
-        "O20"
-      ]
-    },
-    {
-      "name": "font",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ [ <'font-style'> || <font-variant-css21> || <'font-weight'> || <'font-stretch'> ]? <'font-size'> [ / <'line-height'> ]? <'font-family'> ] | caption | icon | menu | message-box | small-caption | status-bar"
-    },
-    {
-      "name": "font-family",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-family-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <family-name> | <generic-family> ]#"
-    },
-    {
-      "name": "font-feature-settings",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <feature-tag-value>#"
-    },
-    {
-      "name": "font-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-size-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<absolute-size> | <relative-size> | <length-percentage>"
-    },
-    {
-      "name": "font-size-adjust",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ ex-height | cap-height | ch-width | ic-width | ic-height ]? [ from-font | <number> ]",
-      "browsers": [
-        "FF3",
-        "S16.4"
-      ]
-    },
-    {
-      "name": "font-stretch",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<font-stretch-absolute>"
-    },
-    {
-      "name": "font-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-style-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | italic | oblique <angle>?"
-    },
-    {
-      "name": "font-variant",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> || stylistic( <feature-value-name> ) || historical-forms || styleset( <feature-value-name># ) || character-variant( <feature-value-name># ) || swash( <feature-value-name> ) || ornaments( <feature-value-name> ) || annotation( <feature-value-name> ) || [ small-caps | all-small-caps | petite-caps | all-petite-caps | unicase | titling-caps ] || <numeric-figure-values> || <numeric-spacing-values> || <numeric-fraction-values> || ordinal || slashed-zero || <east-asian-variant-values> || <east-asian-width-values> || ruby ]"
-    },
-    {
-      "name": "font-variant-ligatures",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> ]",
-      "browsers": [
-        "E79",
-        "FF34",
-        "S9.1",
-        "C34",
-        "O21"
-      ]
-    },
-    {
-      "name": "font-weight",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-fonts-3/#font-weight-prop"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<font-weight-absolute> | bolder | lighter"
-    },
-    {
-      "name": "hanging-punctuation",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ first || [ force-end | allow-end ] || last ]",
-      "browsers": [
-        "S10"
-      ]
-    },
-    {
-      "name": "hyphens",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#hyphens-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | manual | auto"
-    },
-    {
-      "name": "letter-spacing",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#letter-spacing-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <length>"
-    },
-    {
-      "name": "line-break",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#line-break-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | loose | normal | strict | anywhere"
-    },
-    {
-      "name": "overflow-wrap",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | break-word | anywhere"
-    },
-    {
-      "name": "tab-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#tab-size-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<integer> | <length>",
-      "browsers": [
-        "E79",
-        "FF91",
-        "S7",
-        "C21",
-        "O15"
-      ]
-    },
-    {
-      "name": "text-align",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-align-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "start | end | left | right | center | justify | match-parent"
-    },
-    {
-      "name": "text-align-last",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-align-last-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | start | end | left | right | center | justify"
-    },
-    {
-      "name": "text-indent",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-indent-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<length-percentage> && hanging? && each-line?"
-    },
-    {
-      "name": "text-justify",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-justify-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | inter-character | inter-word | none",
-      "browsers": [
-        "E79",
-        "FF55",
-        "C32",
-        "IE11",
-        "O19"
-      ]
-    },
-    {
-      "name": "text-transform",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#text-transform-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
-    },
-    {
-      "name": "white-space",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#white-space-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | pre | nowrap | pre-wrap | pre-line | break-spaces | [ <'white-space-collapse'> || <'text-wrap'> || <'white-space-trim'> ]"
-    },
-    {
-      "name": "word-break",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#word-break-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | break-all | keep-all | break-word"
-    },
-    {
-      "name": "word-spacing",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#word-spacing-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | <length>"
-    },
-    {
-      "name": "word-wrap",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | break-word"
-    },
-    {
-      "name": "vertical-align",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-inline/#transverse-alignment"
-        }
-      ],
-      "status": "standard",
-      "syntax": "baseline | sub | super | text-top | text-bottom | middle | top | bottom | <percentage> | <length>"
-    },
-    {
-      "name": "direction",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#DirectionProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "ltr | rtl"
-    },
-    {
-      "name": "unicode-bidi",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | embed | isolate | bidi-override | isolate-override | plaintext"
-    },
-    {
-      "name": "writing-mode",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#WritingModeProperty"
-        }
-      ],
-      "status": "standard",
-      "syntax": "horizontal-tb | vertical-rl | vertical-lr | sideways-rl | sideways-lr"
-    },
-    {
-      "name": "text-orientation",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css3-writing-modes/#text-orientation"
-        }
-      ],
-      "status": "standard",
-      "syntax": "mixed | upright | sideways",
-      "browsers": [
-        "E79",
-        "FF41",
-        "S14",
-        "C48",
-        "O35"
-      ]
-    },
-    {
-      "name": "text-combine-upright",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | all | [ digits <integer>? ]"
-    },
-    {
-      "name": "text-decoration",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<'text-decoration-line'> || <'text-decoration-style'> || <'text-decoration-color'> || <'text-decoration-thickness'>"
-    },
-    {
-      "name": "text-decoration-line",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ underline || overline || line-through || blink ] | spelling-error | grammar-error",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "text-decoration-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "solid | double | dotted | dashed | wavy",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "text-decoration-color",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<color>",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "object-fit",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css3-images/#the-object-fit"
-        }
-      ],
-      "status": "standard",
-      "syntax": "fill | contain | cover | none | scale-down",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S10",
-        "C32",
-        "O19"
-      ]
-    },
-    {
-      "name": "object-position",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css3-images/#the-object-position"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<position>",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S10",
-        "C32",
-        "O19"
-      ]
-    },
-    {
-      "name": "outline",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-ui-4/#propdef-outline"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <'outline-color'> || <'outline-style'> || <'outline-width'> ]"
-    },
-    {
-      "name": "position",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-position-3/#propdef-position"
-        }
-      ],
-      "status": "standard",
-      "syntax": "static | relative | absolute | sticky | fixed"
-    },
-    {
-      "name": "text-transform",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-text-3/#propdef-text-transform"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
-    },
-    {
-      "name": "border-top-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<line-style>"
-    },
-    {
-      "name": "border-style",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<line-style>{1,4}"
-    },
-    {
-      "name": "float",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/CSS21/visuren.html#propdef-float"
-        }
-      ],
-      "status": "standard",
-      "syntax": "left | right | none | inline-start | inline-end"
-    },
-    {
-      "name": "margin-top",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-box-3/#propdef-margin-top"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<length> | <percentage> | auto"
-    },
-    {
-      "name": "content",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-content-3/#propdef-content"
-        }
-      ],
-      "status": "standard",
-      "syntax": "normal | none | [ <content-replacement> | <content-list> ] [/ [ <string> | <counter> ]+ ]?"
-    },
-    {
-      "name": "transform-box",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-transforms/#transform-box"
-        }
-      ],
-      "status": "standard",
-      "syntax": "content-box | border-box | fill-box | stroke-box | view-box",
-      "browsers": [
-        "E79",
-        "FF55",
-        "S11",
-        "C64",
-        "O51"
-      ]
-    },
-    {
-      "name": "transform-origin",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-transforms/#transform-origin-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <length-percentage> | left | center | right | top | bottom ] | [ [ <length-percentage> | left | center | right ] && [ <length-percentage> | top | center | bottom ] ] <length>?"
-    },
-    {
-      "name": "will-change",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-will-change/#will-change"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <animateable-feature>#",
-      "browsers": [
-        "E79",
-        "FF36",
-        "S9.1",
-        "C36",
-        "O24"
-      ]
-    },
-    {
-      "name": "background",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://drafts.csswg.org/css-backgrounds-3/#background"
-        }
-      ],
-      "status": "standard",
-      "syntax": "[ <bg-layer> , ]* <final-bg-layer>"
-    },
-    {
-      "name": "min-width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-sizing-3/#propdef-min-width"
-        }
-      ],
-      "status": "standard",
-      "syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "max-width",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-sizing-3/#propdef-max-width"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | <length-percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
-    },
-    {
-      "name": "block-size",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
-        }
-      ],
-      "status": "standard",
-      "syntax": "<'width'>",
-      "browsers": [
-        "E79",
-        "FF41",
-        "S12.1",
-        "C57",
-        "O44"
-      ]
-    },
-    {
-      "name": "shape-outside",
-      "references": [
-        {
-          "name": "SVG Spec",
-          "url": "https://www.w3.org/TR/css-shapes/#shape-outside-property"
-        }
-      ],
-      "status": "standard",
-      "syntax": "none | [ <shape-box> || <basic-shape> ] | <image>",
-      "browsers": [
-        "E79",
-        "FF62",
-        "S10.1",
-        "C37",
-        "O24"
-      ]
-    }
-  ]
+	"version": 1.1,
+	"properties": [
+		{
+			"name": "alignment-baseline",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
+				}
+			]
+		},
+		{
+			"name": "baseline-shift",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
+				}
+			]
+		},
+		{
+			"name": "color",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ColorProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "<color>"
+		},
+		{
+			"name": "color-interpolation",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
+				}
+			]
+		},
+		{
+			"name": "color-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
+				}
+			]
+		},
+		{
+			"name": "cursor",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-ui-3/#cursor"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ [ <url> [ <x> <y> ]? , ]* [ auto | default | none | context-menu | help | pointer | progress | wait | cell | crosshair | text | vertical-text | alias | copy | move | no-drop | not-allowed | e-resize | n-resize | ne-resize | nw-resize | s-resize | se-resize | sw-resize | w-resize | ew-resize | ns-resize | nesw-resize | nwse-resize | col-resize | row-resize | all-scroll | zoom-in | zoom-out | grab | grabbing ] ]"
+		},
+		{
+			"name": "dominant-baseline",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
+				}
+			]
+		},
+		{
+			"name": "fill",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#FillProperty"
+				}
+			]
+		},
+		{
+			"name": "fill-opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
+				}
+			]
+		},
+		{
+			"name": "fill-rule",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
+				}
+			]
+		},
+		{
+			"name": "glyph-orientation-horizontal",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
+				}
+			]
+		},
+		{
+			"name": "glyph-orientation-vertical",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
+				}
+			]
+		},
+		{
+			"name": "image-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | crisp-edges | pixelated",
+			"browsers": ["E79", "FF3.6", "S6", "C13", "O15"]
+		},
+		{
+			"name": "inline-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "<'width'>",
+			"browsers": ["E79", "FF41", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "marker",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerProperty"
+				}
+			]
+		},
+		{
+			"name": "marker-end",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
+				}
+			]
+		},
+		{
+			"name": "marker-mid",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
+				}
+			]
+		},
+		{
+			"name": "marker-start",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
+				}
+			]
+		},
+		{
+			"name": "overflow",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ visible | hidden | clip | scroll | auto ]{1,2}"
+		},
+		{
+			"name": "paint-order",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | [ fill || stroke || markers ]",
+			"browsers": ["E17", "FF60", "S8", "C35", "O22"]
+		},
+		{
+			"name": "pointer-events",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | none | visiblePainted | visibleFill | visibleStroke | visible | painted | fill | stroke | all | inherit"
+		},
+		{
+			"name": "shape-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
+				}
+			]
+		},
+		{
+			"name": "stop-color",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
+				}
+			]
+		},
+		{
+			"name": "stop-opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-dasharray",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-dashoffset",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-linecap",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-linejoin",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-miterlimit",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
+				}
+			]
+		},
+		{
+			"name": "text-anchor",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
+				}
+			]
+		},
+		{
+			"name": "text-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | optimizeSpeed | optimizeLegibility | geometricPrecision",
+			"browsers": ["E79", "FF1", "S5", "C4", "O15"]
+		},
+		{
+			"name": "transform",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | <transform-list>"
+		},
+		{
+			"name": "vector-effect",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
+				}
+			]
+		},
+		{
+			"name": "x",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#XProperty"
+				}
+			]
+		},
+		{
+			"name": "y",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#YProperty"
+				}
+			]
+		},
+		{
+			"name": "cx",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#CxProperty"
+				}
+			]
+		},
+		{
+			"name": "cy",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#CyProperty"
+				}
+			]
+		},
+		{
+			"name": "r",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#RProperty"
+				}
+			]
+		},
+		{
+			"name": "rx",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#RxProperty"
+				}
+			]
+		},
+		{
+			"name": "ry",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#RyProperty"
+				}
+			]
+		},
+		{
+			"name": "d",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/paths.html#DProperty"
+				}
+			]
+		},
+		{
+			"name": "display",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <display-outside> || <display-inside> ] | <display-listitem> | <display-internal> | <display-box> | <display-legacy>"
+		},
+		{
+			"name": "opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "<alpha-value>"
+		},
+		{
+			"name": "visibility",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+				}
+			],
+			"status": "standard",
+			"syntax": "visible | hidden | collapse"
+		},
+		{
+			"name": "height",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "line-height",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#LineHeightProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <number> | <length> | <percentage>"
+		},
+		{
+			"name": "shape-image-threshold",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
+				}
+			],
+			"status": "standard",
+			"syntax": "<alpha-value>",
+			"browsers": ["E79", "FF62", "S10.1", "C37", "O24"]
+		},
+		{
+			"name": "shape-inside",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeInside"
+				}
+			]
+		},
+		{
+			"name": "shape-margin",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeMargin"
+				}
+			],
+			"status": "standard",
+			"syntax": "<length-percentage>",
+			"browsers": ["E79", "FF62", "S10.1", "C37", "O24"]
+		},
+		{
+			"name": "shape-subtract",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
+				}
+			]
+		},
+		{
+			"name": "shape-padding",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapePadding"
+				}
+			]
+		},
+		{
+			"name": "text-overflow",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ clip | ellipsis | <string> ]{1,2}"
+		},
+		{
+			"name": "font-kerning",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | normal | none",
+			"browsers": ["E79", "FF32", "S9", "C33", "O20"]
+		},
+		{
+			"name": "font",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ [ <'font-style'> || <font-variant-css21> || <'font-weight'> || <'font-stretch'> ]? <'font-size'> [ / <'line-height'> ]? <'font-family'> ] | caption | icon | menu | message-box | small-caption | status-bar"
+		},
+		{
+			"name": "font-family",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-family-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <family-name> | <generic-family> ]#"
+		},
+		{
+			"name": "font-feature-settings",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <feature-tag-value>#"
+		},
+		{
+			"name": "font-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "<absolute-size> | <relative-size> | <length-percentage>"
+		},
+		{
+			"name": "font-size-adjust",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ ex-height | cap-height | ch-width | ic-width | ic-height ]? [ from-font | <number> ]",
+			"browsers": ["FF3", "S16.4"]
+		},
+		{
+			"name": "font-stretch",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "<font-stretch-absolute>"
+		},
+		{
+			"name": "font-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-style-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | italic | oblique <angle>?"
+		},
+		{
+			"name": "font-variant",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> || stylistic( <feature-value-name> ) || historical-forms || styleset( <feature-value-name># ) || character-variant( <feature-value-name># ) || swash( <feature-value-name> ) || ornaments( <feature-value-name> ) || annotation( <feature-value-name> ) || [ small-caps | all-small-caps | petite-caps | all-petite-caps | unicase | titling-caps ] || <numeric-figure-values> || <numeric-spacing-values> || <numeric-fraction-values> || ordinal || slashed-zero || <east-asian-variant-values> || <east-asian-width-values> || ruby ]"
+		},
+		{
+			"name": "font-variant-ligatures",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> ]",
+			"browsers": ["E79", "FF34", "S9.1", "C34", "O21"]
+		},
+		{
+			"name": "font-weight",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-weight-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "<font-weight-absolute> | bolder | lighter"
+		},
+		{
+			"name": "hanging-punctuation",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ first || [ force-end | allow-end ] || last ]",
+			"browsers": ["S10"]
+		},
+		{
+			"name": "hyphens",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#hyphens-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | manual | auto"
+		},
+		{
+			"name": "letter-spacing",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#letter-spacing-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <length>"
+		},
+		{
+			"name": "line-break",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#line-break-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | loose | normal | strict | anywhere"
+		},
+		{
+			"name": "overflow-wrap",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | break-word | anywhere"
+		},
+		{
+			"name": "tab-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#tab-size-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "<integer> | <length>",
+			"browsers": ["E79", "FF91", "S7", "C21", "O15"]
+		},
+		{
+			"name": "text-align",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-align-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "start | end | left | right | center | justify | match-parent"
+		},
+		{
+			"name": "text-align-last",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-align-last-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | start | end | left | right | center | justify"
+		},
+		{
+			"name": "text-indent",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-indent-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "<length-percentage> && hanging? && each-line?"
+		},
+		{
+			"name": "text-justify",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-justify-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | inter-character | inter-word | none",
+			"browsers": ["E79", "FF55", "C32", "IE11", "O19"]
+		},
+		{
+			"name": "text-transform",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-transform-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
+		},
+		{
+			"name": "white-space",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#white-space-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | pre | nowrap | pre-wrap | pre-line | break-spaces | [ <'white-space-collapse'> || <'text-wrap'> || <'white-space-trim'> ]"
+		},
+		{
+			"name": "word-break",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#word-break-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | break-all | keep-all | break-word"
+		},
+		{
+			"name": "word-spacing",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#word-spacing-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <length>"
+		},
+		{
+			"name": "word-wrap",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | break-word"
+		},
+		{
+			"name": "vertical-align",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-inline/#transverse-alignment"
+				}
+			],
+			"status": "standard",
+			"syntax": "baseline | sub | super | text-top | text-bottom | middle | top | bottom | <percentage> | <length>"
+		},
+		{
+			"name": "direction",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#DirectionProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "ltr | rtl"
+		},
+		{
+			"name": "unicode-bidi",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | embed | isolate | bidi-override | isolate-override | plaintext"
+		},
+		{
+			"name": "writing-mode",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#WritingModeProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "horizontal-tb | vertical-rl | vertical-lr | sideways-rl | sideways-lr"
+		},
+		{
+			"name": "text-orientation",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css3-writing-modes/#text-orientation"
+				}
+			],
+			"status": "standard",
+			"syntax": "mixed | upright | sideways",
+			"browsers": ["E79", "FF41", "S14", "C48", "O35"]
+		},
+		{
+			"name": "text-combine-upright",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | all | [ digits <integer>? ]"
+		},
+		{
+			"name": "text-decoration",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "<'text-decoration-line'> || <'text-decoration-style'> || <'text-decoration-color'> || <'text-decoration-thickness'>"
+		},
+		{
+			"name": "text-decoration-line",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ underline || overline || line-through || blink ] | spelling-error | grammar-error",
+			"browsers": ["E79", "FF36", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "text-decoration-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "solid | double | dotted | dashed | wavy",
+			"browsers": ["E79", "FF36", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "text-decoration-color",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "<color>",
+			"browsers": ["E79", "FF36", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "object-fit",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css3-images/#the-object-fit"
+				}
+			],
+			"status": "standard",
+			"syntax": "fill | contain | cover | none | scale-down",
+			"browsers": ["E79", "FF36", "S10", "C32", "O19"]
+		},
+		{
+			"name": "object-position",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css3-images/#the-object-position"
+				}
+			],
+			"status": "standard",
+			"syntax": "<position>",
+			"browsers": ["E79", "FF36", "S10", "C32", "O19"]
+		},
+		{
+			"name": "outline",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-ui-4/#propdef-outline"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <'outline-color'> || <'outline-style'> || <'outline-width'> ]"
+		},
+		{
+			"name": "position",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-position-3/#propdef-position"
+				}
+			],
+			"status": "standard",
+			"syntax": "static | relative | absolute | sticky | fixed"
+		},
+		{
+			"name": "text-transform",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#propdef-text-transform"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
+		},
+		{
+			"name": "border-top-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
+				}
+			],
+			"status": "standard",
+			"syntax": "<line-style>"
+		},
+		{
+			"name": "border-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
+				}
+			],
+			"status": "standard",
+			"syntax": "<line-style>{1,4}"
+		},
+		{
+			"name": "float",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/CSS21/visuren.html#propdef-float"
+				}
+			],
+			"status": "standard",
+			"syntax": "left | right | none | inline-start | inline-end"
+		},
+		{
+			"name": "margin-top",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-box-3/#propdef-margin-top"
+				}
+			],
+			"status": "standard",
+			"syntax": "<length> | <percentage> | auto"
+		},
+		{
+			"name": "content",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-content-3/#propdef-content"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | none | [ <content-replacement> | <content-list> ] [/ [ <string> | <counter> ]+ ]?"
+		},
+		{
+			"name": "transform-box",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-transforms/#transform-box"
+				}
+			],
+			"status": "standard",
+			"syntax": "content-box | border-box | fill-box | stroke-box | view-box",
+			"browsers": ["E79", "FF55", "S11", "C64", "O51"]
+		},
+		{
+			"name": "transform-origin",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-transforms/#transform-origin-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <length-percentage> | left | center | right | top | bottom ] | [ [ <length-percentage> | left | center | right ] && [ <length-percentage> | top | center | bottom ] ] <length>?"
+		},
+		{
+			"name": "will-change",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-will-change/#will-change"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <animateable-feature>#",
+			"browsers": ["E79", "FF36", "S9.1", "C36", "O24"]
+		},
+		{
+			"name": "background",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-backgrounds-3/#background"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <bg-layer> , ]* <final-bg-layer>"
+		},
+		{
+			"name": "min-width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-min-width"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "max-width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-max-width"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | <length-percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "block-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
+				}
+			],
+			"status": "standard",
+			"syntax": "<'width'>",
+			"browsers": ["E79", "FF41", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "shape-outside",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-shapes/#shape-outside-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ <shape-box> || <basic-shape> ] | <image>",
+			"browsers": ["E79", "FF62", "S10.1", "C37", "O24"]
+		},
+		{
+			"name": "alignment-baseline",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
+				}
+			]
+		},
+		{
+			"name": "baseline-shift",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
+				}
+			]
+		},
+		{
+			"name": "color",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ColorProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "<color>"
+		},
+		{
+			"name": "color-interpolation",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
+				}
+			]
+		},
+		{
+			"name": "color-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
+				}
+			]
+		},
+		{
+			"name": "cursor",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-ui-3/#cursor"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ [ <url> [ <x> <y> ]? , ]* [ auto | default | none | context-menu | help | pointer | progress | wait | cell | crosshair | text | vertical-text | alias | copy | move | no-drop | not-allowed | e-resize | n-resize | ne-resize | nw-resize | s-resize | se-resize | sw-resize | w-resize | ew-resize | ns-resize | nesw-resize | nwse-resize | col-resize | row-resize | all-scroll | zoom-in | zoom-out | grab | grabbing ] ]"
+		},
+		{
+			"name": "dominant-baseline",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
+				}
+			]
+		},
+		{
+			"name": "fill",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#FillProperty"
+				}
+			]
+		},
+		{
+			"name": "fill-opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
+				}
+			]
+		},
+		{
+			"name": "fill-rule",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
+				}
+			]
+		},
+		{
+			"name": "glyph-orientation-horizontal",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
+				}
+			]
+		},
+		{
+			"name": "glyph-orientation-vertical",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
+				}
+			]
+		},
+		{
+			"name": "image-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | crisp-edges | pixelated",
+			"browsers": ["E79", "FF3.6", "S6", "C13", "O15"]
+		},
+		{
+			"name": "inline-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "<'width'>",
+			"browsers": ["E79", "FF41", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "marker",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerProperty"
+				}
+			]
+		},
+		{
+			"name": "marker-end",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
+				}
+			]
+		},
+		{
+			"name": "marker-mid",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
+				}
+			]
+		},
+		{
+			"name": "marker-start",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
+				}
+			]
+		},
+		{
+			"name": "overflow",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ visible | hidden | clip | scroll | auto ]{1,2}"
+		},
+		{
+			"name": "paint-order",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | [ fill || stroke || markers ]",
+			"browsers": ["E17", "FF60", "S8", "C35", "O22"]
+		},
+		{
+			"name": "pointer-events",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | none | visiblePainted | visibleFill | visibleStroke | visible | painted | fill | stroke | all | inherit"
+		},
+		{
+			"name": "shape-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
+				}
+			]
+		},
+		{
+			"name": "stop-color",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
+				}
+			]
+		},
+		{
+			"name": "stop-opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-dasharray",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-dashoffset",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-linecap",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-linejoin",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-miterlimit",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
+				}
+			]
+		},
+		{
+			"name": "stroke-width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
+				}
+			]
+		},
+		{
+			"name": "text-anchor",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
+				}
+			]
+		},
+		{
+			"name": "text-rendering",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | optimizeSpeed | optimizeLegibility | geometricPrecision",
+			"browsers": ["E79", "FF1", "S5", "C4", "O15"]
+		},
+		{
+			"name": "transform",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | <transform-list>"
+		},
+		{
+			"name": "vector-effect",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
+				}
+			]
+		},
+		{
+			"name": "x",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#XProperty"
+				}
+			]
+		},
+		{
+			"name": "y",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#YProperty"
+				}
+			]
+		},
+		{
+			"name": "cx",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#CxProperty"
+				}
+			]
+		},
+		{
+			"name": "cy",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#CyProperty"
+				}
+			]
+		},
+		{
+			"name": "r",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#RProperty"
+				}
+			]
+		},
+		{
+			"name": "rx",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#RxProperty"
+				}
+			]
+		},
+		{
+			"name": "ry",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#RyProperty"
+				}
+			]
+		},
+		{
+			"name": "d",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/paths.html#DProperty"
+				}
+			]
+		},
+		{
+			"name": "display",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <display-outside> || <display-inside> ] | <display-listitem> | <display-internal> | <display-box> | <display-legacy>"
+		},
+		{
+			"name": "opacity",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "<alpha-value>"
+		},
+		{
+			"name": "visibility",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+				}
+			],
+			"status": "standard",
+			"syntax": "visible | hidden | collapse"
+		},
+		{
+			"name": "height",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "line-height",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#LineHeightProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <number> | <length> | <percentage>"
+		},
+		{
+			"name": "shape-image-threshold",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
+				}
+			],
+			"status": "standard",
+			"syntax": "<alpha-value>",
+			"browsers": ["E79", "FF62", "S10.1", "C37", "O24"]
+		},
+		{
+			"name": "shape-inside",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeInside"
+				}
+			]
+		},
+		{
+			"name": "shape-margin",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeMargin"
+				}
+			],
+			"status": "standard",
+			"syntax": "<length-percentage>",
+			"browsers": ["E79", "FF62", "S10.1", "C37", "O24"]
+		},
+		{
+			"name": "shape-subtract",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
+				}
+			]
+		},
+		{
+			"name": "shape-padding",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextShapePadding"
+				}
+			]
+		},
+		{
+			"name": "text-overflow",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ clip | ellipsis | <string> ]{1,2}"
+		},
+		{
+			"name": "font-kerning",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | normal | none",
+			"browsers": ["E79", "FF32", "S9", "C33", "O20"]
+		},
+		{
+			"name": "font",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ [ <'font-style'> || <font-variant-css21> || <'font-weight'> || <'font-stretch'> ]? <'font-size'> [ / <'line-height'> ]? <'font-family'> ] | caption | icon | menu | message-box | small-caption | status-bar"
+		},
+		{
+			"name": "font-family",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-family-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <family-name> | <generic-family> ]#"
+		},
+		{
+			"name": "font-feature-settings",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <feature-tag-value>#"
+		},
+		{
+			"name": "font-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "<absolute-size> | <relative-size> | <length-percentage>"
+		},
+		{
+			"name": "font-size-adjust",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ ex-height | cap-height | ch-width | ic-width | ic-height ]? [ from-font | <number> ]",
+			"browsers": ["FF3", "S16.4"]
+		},
+		{
+			"name": "font-stretch",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "<font-stretch-absolute>"
+		},
+		{
+			"name": "font-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-style-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | italic | oblique <angle>?"
+		},
+		{
+			"name": "font-variant",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> || stylistic( <feature-value-name> ) || historical-forms || styleset( <feature-value-name># ) || character-variant( <feature-value-name># ) || swash( <feature-value-name> ) || ornaments( <feature-value-name> ) || annotation( <feature-value-name> ) || [ small-caps | all-small-caps | petite-caps | all-petite-caps | unicase | titling-caps ] || <numeric-figure-values> || <numeric-spacing-values> || <numeric-fraction-values> || ordinal || slashed-zero || <east-asian-variant-values> || <east-asian-width-values> || ruby ]"
+		},
+		{
+			"name": "font-variant-ligatures",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | none | [ <common-lig-values> || <discretionary-lig-values> || <historical-lig-values> || <contextual-alt-values> ]",
+			"browsers": ["E79", "FF34", "S9.1", "C34", "O21"]
+		},
+		{
+			"name": "font-weight",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-fonts-3/#font-weight-prop"
+				}
+			],
+			"status": "standard",
+			"syntax": "<font-weight-absolute> | bolder | lighter"
+		},
+		{
+			"name": "hanging-punctuation",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ first || [ force-end | allow-end ] || last ]",
+			"browsers": ["S10"]
+		},
+		{
+			"name": "hyphens",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#hyphens-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | manual | auto"
+		},
+		{
+			"name": "letter-spacing",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#letter-spacing-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <length>"
+		},
+		{
+			"name": "line-break",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#line-break-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | loose | normal | strict | anywhere"
+		},
+		{
+			"name": "overflow-wrap",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | break-word | anywhere"
+		},
+		{
+			"name": "tab-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#tab-size-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "<integer> | <length>",
+			"browsers": ["E79", "FF91", "S7", "C21", "O15"]
+		},
+		{
+			"name": "text-align",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-align-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "start | end | left | right | center | justify | match-parent"
+		},
+		{
+			"name": "text-align-last",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-align-last-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | start | end | left | right | center | justify"
+		},
+		{
+			"name": "text-indent",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-indent-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "<length-percentage> && hanging? && each-line?"
+		},
+		{
+			"name": "text-justify",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-justify-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | inter-character | inter-word | none",
+			"browsers": ["E79", "FF55", "C32", "IE11", "O19"]
+		},
+		{
+			"name": "text-transform",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#text-transform-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
+		},
+		{
+			"name": "white-space",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#white-space-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | pre | nowrap | pre-wrap | pre-line | break-spaces | [ <'white-space-collapse'> || <'text-wrap'> || <'white-space-trim'> ]"
+		},
+		{
+			"name": "word-break",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#word-break-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | break-all | keep-all | break-word"
+		},
+		{
+			"name": "word-spacing",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#word-spacing-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | <length>"
+		},
+		{
+			"name": "word-wrap",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | break-word"
+		},
+		{
+			"name": "vertical-align",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-inline/#transverse-alignment"
+				}
+			],
+			"status": "standard",
+			"syntax": "baseline | sub | super | text-top | text-bottom | middle | top | bottom | <percentage> | <length>"
+		},
+		{
+			"name": "direction",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#DirectionProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "ltr | rtl"
+		},
+		{
+			"name": "unicode-bidi",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | embed | isolate | bidi-override | isolate-override | plaintext"
+		},
+		{
+			"name": "writing-mode",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#WritingModeProperty"
+				}
+			],
+			"status": "standard",
+			"syntax": "horizontal-tb | vertical-rl | vertical-lr | sideways-rl | sideways-lr"
+		},
+		{
+			"name": "text-orientation",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css3-writing-modes/#text-orientation"
+				}
+			],
+			"status": "standard",
+			"syntax": "mixed | upright | sideways",
+			"browsers": ["E79", "FF41", "S14", "C48", "O35"]
+		},
+		{
+			"name": "text-combine-upright",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | all | [ digits <integer>? ]"
+		},
+		{
+			"name": "text-decoration",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "<'text-decoration-line'> || <'text-decoration-style'> || <'text-decoration-color'> || <'text-decoration-thickness'>"
+		},
+		{
+			"name": "text-decoration-line",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ underline || overline || line-through || blink ] | spelling-error | grammar-error",
+			"browsers": ["E79", "FF36", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "text-decoration-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "solid | double | dotted | dashed | wavy",
+			"browsers": ["E79", "FF36", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "text-decoration-color",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+				}
+			],
+			"status": "standard",
+			"syntax": "<color>",
+			"browsers": ["E79", "FF36", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "object-fit",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css3-images/#the-object-fit"
+				}
+			],
+			"status": "standard",
+			"syntax": "fill | contain | cover | none | scale-down",
+			"browsers": ["E79", "FF36", "S10", "C32", "O19"]
+		},
+		{
+			"name": "object-position",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css3-images/#the-object-position"
+				}
+			],
+			"status": "standard",
+			"syntax": "<position>",
+			"browsers": ["E79", "FF36", "S10", "C32", "O19"]
+		},
+		{
+			"name": "outline",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-ui-4/#propdef-outline"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <'outline-color'> || <'outline-style'> || <'outline-width'> ]"
+		},
+		{
+			"name": "position",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-position-3/#propdef-position"
+				}
+			],
+			"status": "standard",
+			"syntax": "static | relative | absolute | sticky | fixed"
+		},
+		{
+			"name": "text-transform",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-text-3/#propdef-text-transform"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | capitalize | uppercase | lowercase | full-width | full-size-kana"
+		},
+		{
+			"name": "border-top-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
+				}
+			],
+			"status": "standard",
+			"syntax": "<line-style>"
+		},
+		{
+			"name": "border-style",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
+				}
+			],
+			"status": "standard",
+			"syntax": "<line-style>{1,4}"
+		},
+		{
+			"name": "float",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/CSS21/visuren.html#propdef-float"
+				}
+			],
+			"status": "standard",
+			"syntax": "left | right | none | inline-start | inline-end"
+		},
+		{
+			"name": "margin-top",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-box-3/#propdef-margin-top"
+				}
+			],
+			"status": "standard",
+			"syntax": "<length> | <percentage> | auto"
+		},
+		{
+			"name": "content",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-content-3/#propdef-content"
+				}
+			],
+			"status": "standard",
+			"syntax": "normal | none | [ <content-replacement> | <content-list> ] [/ [ <string> | <counter> ]+ ]?"
+		},
+		{
+			"name": "transform-box",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-transforms/#transform-box"
+				}
+			],
+			"status": "standard",
+			"syntax": "content-box | border-box | fill-box | stroke-box | view-box",
+			"browsers": ["E79", "FF55", "S11", "C64", "O51"]
+		},
+		{
+			"name": "transform-origin",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-transforms/#transform-origin-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <length-percentage> | left | center | right | top | bottom ] | [ [ <length-percentage> | left | center | right ] && [ <length-percentage> | top | center | bottom ] ] <length>?"
+		},
+		{
+			"name": "will-change",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-will-change/#will-change"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <animateable-feature>#",
+			"browsers": ["E79", "FF36", "S9.1", "C36", "O24"]
+		},
+		{
+			"name": "background",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://drafts.csswg.org/css-backgrounds-3/#background"
+				}
+			],
+			"status": "standard",
+			"syntax": "[ <bg-layer> , ]* <final-bg-layer>"
+		},
+		{
+			"name": "min-width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-min-width"
+				}
+			],
+			"status": "standard",
+			"syntax": "auto | <length> | <percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "max-width",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-max-width"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | <length-percentage> | min-content | max-content | fit-content | fit-content(<length-percentage>)"
+		},
+		{
+			"name": "block-size",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
+				}
+			],
+			"status": "standard",
+			"syntax": "<'width'>",
+			"browsers": ["E79", "FF41", "S12.1", "C57", "O44"]
+		},
+		{
+			"name": "shape-outside",
+			"references": [
+				{
+					"name": "SVG Spec",
+					"url": "https://www.w3.org/TR/css-shapes/#shape-outside-property"
+				}
+			],
+			"status": "standard",
+			"syntax": "none | [ <shape-box> || <basic-shape> ] | <image>",
+			"browsers": ["E79", "FF62", "S10.1", "C37", "O24"]
+		}
+	]
 }
