@@ -1,6 +1,6 @@
 {
 	"devDependencies": {
-		"@mdn/browser-compat-data": "5.6.5",
+		"@mdn/browser-compat-data": "5.6.6",
 		"mdn-data": "2.11.1"
 	},
 	"files": [
