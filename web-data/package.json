@@ -1,14 +1,14 @@
 {
-	"devDependencies": {
-		"@mdn/browser-compat-data": "5.6.7",
-		"mdn-data": "2.11.1"
-	},
+	"name": "@vscode/web-custom-data",
 	"files": [
 		"data/*"
 	],
-	"name": "@vscode/web-custom-data",
 	"scripts": {
 		"generate-data": "node html/generateData.js && node css/generateData.js",
 		"update-sources": "npm i -D mdn-data @mdn/browser-compat-data && node ./css/chromestatus/updateRelevance.js"
+	},
+	"devDependencies": {
+		"@mdn/browser-compat-data": "5.6.7",
+		"mdn-data": "2.11.1"
 	}
 }
