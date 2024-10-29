@@ -16,10 +16,10 @@
 		"@mdn/browser-compat-data": "5.6.10",
 		"@types/cheerio": "0.22.35",
 		"@types/got": "9.6.12",
-		"@types/node": "22.8.1",
+		"@types/node": "22.8.2",
 		"@types/turndown": "5.0.5",
 		"cheerio": "1.0.0",
-		"mdn-data": "2.11.1",
+		"mdn-data": "2.12.1",
 		"turndown": "7.2.0"
 	},
 	"displayName": "svg",
