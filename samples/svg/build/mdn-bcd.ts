@@ -6,10 +6,12 @@ import { CSSProperty } from "./svg-spec";
 const bcd = require("@mdn/browser-compat-data");
 
 const el = bcd.svg.elements as any;
+
 const at = bcd.svg.attributes as any;
 
 function htmlExport() {
 	const tags = [];
+
 	for (let e in el) {
 		tags.push({
 			label: e,
@@ -26,6 +28,7 @@ function htmlExport() {
 	);
 
 	const attributes = [];
+
 	for (let category in at) {
 		for (let a in at[category]) {
 			attributes.push({
@@ -45,6 +48,7 @@ function htmlExport() {
 
 function cssExport() {
 	const properties = [];
+
 	for (let category in at) {
 		for (let a in at[category]) {
 			properties.push({

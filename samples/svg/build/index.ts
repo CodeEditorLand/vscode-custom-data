@@ -44,6 +44,7 @@ async function attachAsyncHTMLDataFromMDN(
 
 	for (let e of elements) {
 		let desc;
+
 		try {
 			desc = await getMDNMDDescription(e.name, "tag");
 		} catch (err) {
@@ -59,6 +60,7 @@ async function attachAsyncHTMLDataFromMDN(
 
 	for (let a of allAttributes) {
 		let desc;
+
 		try {
 			desc = await getMDNMDDescription(a.name, "attribute");
 		} catch (err) {
@@ -77,6 +79,7 @@ async function attachAsyncHTMLDataFromMDN(
 
 async function generateHTMLData() {
 	const { elements, globalAttributes } = getStaticHTMLData();
+
 	const getMdnDataSuccess = attachAsyncHTMLDataFromMDN(
 		elements,
 		globalAttributes,
@@ -84,6 +87,7 @@ async function generateHTMLData() {
 
 	if (!getMdnDataSuccess) {
 		console.log("Failed to get data from MDN");
+
 		return;
 	}
 
@@ -120,6 +124,7 @@ async function attachAsyncCSSDataFromMDN(
 ): Promise<boolean> {
 	for (let p of cssProperties) {
 		let desc;
+
 		try {
 			desc = await getMDNMDDescription(p.name, "attribute");
 		} catch (err) {
@@ -138,10 +143,12 @@ async function attachAsyncCSSDataFromMDN(
 
 async function generateCSSData() {
 	const cssProperties = getStaticCSSData();
+
 	const getMdnDataSuccess = await attachAsyncCSSDataFromMDN(cssProperties);
 
 	if (!getMdnDataSuccess) {
 		console.log("Failed to get data from MDN");
+
 		return;
 	}
 
@@ -163,6 +170,7 @@ async function getHTMLData() {
 
 	for (let e of elements) {
 		const desc = await getMDNMDDescription(e.name, "tag");
+
 		if (desc) {
 			e.description = desc;
 			await sleep(1000);
@@ -181,6 +189,7 @@ async function getHTMLData() {
 
 	for (let a of allAttributes) {
 		const desc = await getMDNMDDescription(a.name, "attribute");
+
 		if (desc) {
 			a.description = desc;
 			await sleep(1000);

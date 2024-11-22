@@ -2,9 +2,11 @@ import { CSSProperty, CSSSpecProperty } from "./svg-spec";
 import { isSupportedInAllBrowsers, toCompatString } from "./util";
 
 const mdnData = require("mdn-data");
+
 const bcdData = require("@mdn/browser-compat-data");
 
 const properties = mdnData.css.properties;
+
 const bcdProperties = bcdData.css.properties;
 
 export function addCSSMDNData(specProperty: CSSSpecProperty): CSSProperty {
@@ -26,17 +28,21 @@ export function addCSSMDNData(specProperty: CSSSpecProperty): CSSProperty {
 function getPropertyStatus(name: string) {
 	if (properties[name]) {
 		let status = properties[name].status;
+
 		let mdnCompatEntry = bcdProperties[name];
+
 		if (!mdnCompatEntry) {
 			for (const contextName in mdnCompatEntry) {
 				if (mdnCompatEntry[contextName].__compat) {
 					mdnCompatEntry = mdnCompatEntry[contextName].__compat;
+
 					break;
 				}
 			}
 		}
 
 		const compatStatus = mdnCompatEntry?.status;
+
 		if (compatStatus) {
 			if (compatStatus.experimental) {
 				status = "experimental";

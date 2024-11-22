@@ -21,12 +21,15 @@ export function toCompatString(bcdProperty: any): string[] {
 	if (bcdProperty.__compat) {
 		Object.keys(browserNames).forEach((abbrev) => {
 			const browserName = browserNames[abbrev].toLowerCase();
+
 			const browserSupport = bcdProperty.__compat.support[browserName];
+
 			if (browserSupport) {
 				const shortCompatString = supportToShortCompatString(
 					browserSupport,
 					abbrev,
 				);
+
 				if (shortCompatString) {
 					s.push(shortCompatString);
 				}
@@ -41,13 +44,16 @@ export function toCompatString(bcdProperty: any): string[] {
 
 			Object.keys(bcdProperty).forEach((contextName) => {
 				const context = bcdProperty[contextName];
+
 				if (context.__compat && context.__compat.support[browserName]) {
 					const browserSupport =
 						context.__compat.support[browserName];
+
 					const shortCompatString = supportToShortCompatString(
 						browserSupport,
 						abbrev,
 					);
+
 					if (
 						!shortCompatStringAggregatedFromContexts ||
 						shortCompatString >
@@ -74,12 +80,14 @@ export function isSupportedInAllBrowsers(bcdProperty: any) {
 	if (bcdProperty.__compat) {
 		return Object.keys(browserNames).every((abbrev) => {
 			const browserName = browserNames[abbrev].toLowerCase();
+
 			if (
 				bcdProperty.__compat &&
 				bcdProperty.__compat.support[browserName]
 			) {
 				const browserSupport =
 					bcdProperty.__compat.support[browserName];
+
 				if (browserSupport) {
 					return isSupported(browserSupport);
 				}
@@ -93,9 +101,11 @@ export function isSupportedInAllBrowsers(bcdProperty: any) {
 
 			return Object.keys(bcdProperty).some((contextName) => {
 				const context = bcdProperty[contextName];
+
 				if (context.__compat && context.__compat.support[browserName]) {
 					const browserSupport =
 						context.__compat.support[browserName];
+
 					if (browserSupport) {
 						return isSupported(browserSupport);
 					}
@@ -130,6 +140,7 @@ export function isSupportedInAllBrowsers(bcdProperty: any) {
  */
 function supportToShortCompatString(support: any, browserAbbrev: any) {
 	let version_added;
+
 	if (Array.isArray(support) && support[0] && support[0].version_added) {
 		version_added = support[0].version_added;
 	} else if (support.version_added) {
@@ -149,6 +160,7 @@ function supportToShortCompatString(support: any, browserAbbrev: any) {
 
 function isSupported(support: any) {
 	let version_added;
+
 	if (Array.isArray(support) && support[0] && support[0].version_added) {
 		version_added = support[0].version_added;
 	} else if (support.version_added) {

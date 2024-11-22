@@ -51,8 +51,11 @@ export interface CSSPropertyValue {
 }
 
 const globalAttributes: HTMLAttribute[] = [];
+
 const attributeCategories: HTMLAttributeCategory[] = [];
+
 const elements: HTMLElement[] = [];
+
 const cssSpecProperties: CSSSpecProperty[] = [];
 
 function handleHref(href: string) {
@@ -67,6 +70,7 @@ function parseStringList(str: string) {
 
 export function getSVGSpec() {
 	const src = fs.readFileSync(DEFINITION_PATH, "utf-8");
+
 	const $ = cheerio.load(src, {
 		xmlMode: true,
 	});
@@ -75,6 +79,7 @@ export function getSVGSpec() {
 		const x = $(e),
 			name = x.attr("name"),
 			href = x.attr("href");
+
 		if (name && href) {
 			globalAttributes.push({
 				name,
@@ -92,6 +97,7 @@ export function getSVGSpec() {
 		const x = $(e),
 			name = x.attr("name"),
 			href = x.attr("href");
+
 		if (name && href) {
 			const attrCate = {
 				name,
@@ -110,6 +116,7 @@ export function getSVGSpec() {
 					const x = $(e),
 						name = x.attr("name"),
 						href = x.attr("href");
+
 					if (name && href) {
 						attrCate.attributes.push({
 							name,
@@ -133,6 +140,7 @@ export function getSVGSpec() {
 			href = x.attr("href"),
 			attributes = x.attr("attributes"),
 			attributecategories = x.attr("attributecategories");
+
 		if (name && href) {
 			const el = {
 				name,
@@ -151,6 +159,7 @@ export function getSVGSpec() {
 					const matchingAttr = globalAttributes.find(
 						(a) => a.name === s,
 					);
+
 					if (matchingAttr) {
 						el.attributes.push(matchingAttr);
 					}
@@ -163,6 +172,7 @@ export function getSVGSpec() {
 					const x = $(ea),
 						name = x.attr("name"),
 						href = x.attr("href");
+
 					if (name && href) {
 						el.attributes.push({
 							name,
@@ -190,6 +200,7 @@ export function getSVGSpec() {
 		const x = $(e),
 			name = x.attr("name"),
 			href = x.attr("href");
+
 		if (name && href) {
 			cssSpecProperties.push({
 				name,

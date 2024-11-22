@@ -4,6 +4,7 @@ import * as path from "path";
 const htmlData = require(
 	path.resolve(__dirname, "../raw-data/svg-html-contribution.json"),
 );
+
 const cssData = require(
 	path.resolve(__dirname, "../raw-data/svg-css-contribution.json"),
 );
