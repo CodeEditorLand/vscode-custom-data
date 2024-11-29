@@ -15,9 +15,11 @@ export function addCSSMDNData(specProperty: CSSSpecProperty): CSSProperty {
 	if (getPropertyStatus(specProperty.name)) {
 		property.status = getPropertyStatus(specProperty.name);
 	}
+
 	if (getPropertySyntax(specProperty.name)) {
 		property.syntax = getPropertySyntax(specProperty.name);
 	}
+
 	if (getPropertyBrowsers(specProperty.name)) {
 		property.browsers = getPropertyBrowsers(specProperty.name);
 	}
@@ -54,6 +56,7 @@ function getPropertyStatus(name: string) {
 				status = "nonstandard";
 			}
 		}
+
 		return status;
 	}
 }

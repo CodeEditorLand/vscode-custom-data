@@ -34,6 +34,7 @@ async function attachAsyncHTMLDataFromMDN(
 ): Promise<boolean> {
 	// Collect all attribute
 	const allAttributes = globalAttributes;
+
 	elements.forEach((el) => {
 		el.attributes.forEach((a) => {
 			if (!allAttributes.find((ta) => ta.name === a.name)) {
@@ -53,7 +54,9 @@ async function attachAsyncHTMLDataFromMDN(
 
 		if (desc) {
 			e.description = desc;
+
 			await sleep(1000);
+
 			console.log(`Done with ${e.name} tag`);
 		}
 	}
@@ -69,7 +72,9 @@ async function attachAsyncHTMLDataFromMDN(
 
 		if (desc) {
 			a.description = desc;
+
 			await sleep(1000);
+
 			console.log(`Done with ${a.name} attribute`);
 		}
 	}
@@ -98,10 +103,12 @@ async function generateHTMLData() {
 	};
 
 	console.log("Writing svg-html-contribution.json");
+
 	fs.writeFileSync(
 		path.resolve(__dirname, "../raw-data/svg-html-contribution.json"),
 		JSON.stringify(htmlOut, null, 2),
 	);
+
 	console.log("Done writing svg-html-contribution.json");
 }
 
@@ -133,8 +140,10 @@ async function attachAsyncCSSDataFromMDN(
 
 		if (desc) {
 			p.description = desc;
+
 			await sleep(1000);
 		}
+
 		console.log(`Done with ${p.name} property`);
 	}
 
@@ -158,10 +167,12 @@ async function generateCSSData() {
 	};
 
 	console.log("Writing svg-css-contribution.json");
+
 	fs.writeFileSync(
 		path.resolve(__dirname, "../raw-data/svg-css-contribution.json"),
 		JSON.stringify(cssOut, null, 2),
 	);
+
 	console.log("Done writing svg-css-contribution.json");
 }
 
@@ -173,12 +184,15 @@ async function getHTMLData() {
 
 		if (desc) {
 			e.description = desc;
+
 			await sleep(1000);
+
 			console.log(`Done with ${e.name} tag`);
 		}
 	}
 
 	const allAttributes = globalAttributes;
+
 	elements.forEach((el) => {
 		el.attributes.forEach((a) => {
 			if (!allAttributes.find((ta) => ta.name === a.name)) {
@@ -192,7 +206,9 @@ async function getHTMLData() {
 
 		if (desc) {
 			a.description = desc;
+
 			await sleep(1000);
+
 			console.log(`Done with ${a.name} attribute`);
 		}
 	}
@@ -210,5 +226,6 @@ async function getHTMLData() {
 
 (async () => {
 	await generateHTMLData();
+
 	await generateCSSData();
 })();

@@ -59,6 +59,7 @@ function cssExport() {
 	}
 
 	const serializedProperties = JSON.stringify({ properties }, null, 2);
+
 	fs.writeFileSync(
 		path.resolve(__dirname, "../data/svg-properties.json"),
 		serializedProperties,

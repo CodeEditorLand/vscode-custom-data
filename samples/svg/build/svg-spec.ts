@@ -6,47 +6,65 @@ const DEFINITION_PATH = path.resolve(__dirname, "../raw-data/definitions.xml");
 
 interface Reference {
 	name: string;
+
 	url: string;
 }
 
 export interface HTMLElement {
 	name: string;
+
 	description?: string;
+
 	attributes: HTMLAttribute[];
+
 	attributeCategories: string[];
+
 	references?: Reference[];
 }
 
 export interface HTMLAttribute {
 	name: string;
+
 	description?: string;
+
 	references?: Reference[];
 }
 
 interface HTMLAttributeCategory {
 	name: string;
+
 	attributes: HTMLAttribute[];
+
 	references?: Reference[];
 }
 
 export interface CSSProperty {
 	name: string;
+
 	description?: string;
+
 	browsers?: string[];
+
 	status?: string;
+
 	syntax?: string;
+
 	values?: CSSPropertyValue[];
+
 	references?: Reference[];
 }
 
 export interface CSSSpecProperty {
 	name: string;
+
 	references?: Reference[];
 }
 
 export interface CSSPropertyValue {
 	name: string;
+
 	descriptipn: string;
+
 	references?: Reference[];
 }
 

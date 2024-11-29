@@ -70,6 +70,7 @@ export function toCompatString(bcdProperty: any): string[] {
 			}
 		});
 	}
+
 	return s;
 }
 
