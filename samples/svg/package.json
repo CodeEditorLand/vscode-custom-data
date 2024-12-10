@@ -1,20 +1,4 @@
 {
-	"name": "svg",
-	"displayName": "svg",
-	"version": "0.1.0",
-	"description": "svg",
-	"categories": [
-		"Other"
-	],
-	"repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-sample",
-	"license": "MIT",
-	"publisher": "octref",
-	"scripts": {
-		"compile": "tsc -p ./",
-		"update-data": "npm run compile && node ./dist/index.js",
-		"vscode:prepublish": "npm run compile",
-		"watch": "tsc -watch -p ./"
-	},
 	"contributes": {
 		"css": {
 			"customData": [
@@ -28,19 +12,21 @@
 		}
 	},
 	"dependencies": {},
+	"description": "svg",
 	"devDependencies": {
 		"@mdn/browser-compat-data": "^5.3.13",
 		"@types/cheerio": "^0.22.31",
 		"@types/got": "^9.6.12",
 		"@types/node": "^18.11.18",
 		"@types/turndown": "^5.0.1",
-		"@types/vscode": "^1.81.0",
 		"cheerio": "1.0.0-rc.12",
 		"mdn-data": "^2.0.33",
-		"turndown": "^7.1.2",
-		"typescript": "^5.2.2"
+		"turndown": "^7.1.2"
 	},
-	"engines": {
-		"vscode": "^1.25.0"
+	"displayName": "svg",
+	"name": "svg",
+	"scripts": {
+		"compile": "tsc -p ./",
+		"update-data": "npm run compile && node ./dist/index.js"
 	}
 }
