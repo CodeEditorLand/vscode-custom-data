@@ -1,4 +1,11 @@
 {
+	"name": "svg",
+	"displayName": "svg",
+	"description": "svg",
+	"scripts": {
+		"compile": "tsc -p ./",
+		"update-data": "npm run compile && node ./dist/index.js"
+	},
 	"contributes": {
 		"css": {
 			"customData": [
@@ -12,7 +19,6 @@
 		}
 	},
 	"dependencies": {},
-	"description": "svg",
 	"devDependencies": {
 		"@mdn/browser-compat-data": "^5.3.13",
 		"@types/cheerio": "^0.22.31",
@@ -22,11 +28,5 @@
 		"cheerio": "1.0.0-rc.12",
 		"mdn-data": "^2.0.33",
 		"turndown": "^7.1.2"
-	},
-	"displayName": "svg",
-	"name": "svg",
-	"scripts": {
-		"compile": "tsc -p ./",
-		"update-data": "npm run compile && node ./dist/index.js"
 	}
 }
