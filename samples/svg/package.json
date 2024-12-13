@@ -20,13 +20,13 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@mdn/browser-compat-data": "^5.3.13",
-		"@types/cheerio": "^0.22.31",
-		"@types/got": "^9.6.12",
-		"@types/node": "^18.11.18",
-		"@types/turndown": "^5.0.1",
+		"@mdn/browser-compat-data": "5.3.13",
+		"@types/cheerio": "0.22.31",
+		"@types/got": "9.6.12",
+		"@types/node": "18.11.18",
+		"@types/turndown": "5.0.1",
 		"cheerio": "1.0.0-rc.12",
-		"mdn-data": "^2.0.33",
-		"turndown": "^7.1.2"
+		"mdn-data": "2.0.33",
+		"turndown": "7.1.2"
 	}
 }
