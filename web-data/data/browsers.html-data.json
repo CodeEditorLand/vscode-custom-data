@@ -27,7 +27,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/html"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/html"
 				}
 			]
 		},
@@ -46,7 +46,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/head"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/head"
 				}
 			]
 		},
@@ -60,7 +60,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/title"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/title"
 				}
 			]
 		},
@@ -91,7 +91,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/base"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/base"
 				}
 			]
 		},
@@ -181,7 +181,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/link"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/link"
 				}
 			]
 		},
@@ -229,7 +229,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/meta"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/meta"
 				}
 			]
 		},
@@ -273,7 +273,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/style"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/style"
 				}
 			]
 		},
@@ -439,7 +439,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/body"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/body"
 				}
 			]
 		},
@@ -453,7 +453,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/article"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/article"
 				}
 			]
 		},
@@ -467,7 +467,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/section"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/section"
 				}
 			]
 		},
@@ -481,7 +481,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/nav"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/nav"
 				}
 			]
 		},
@@ -495,7 +495,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/aside"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/aside"
 				}
 			]
 		},
@@ -509,7 +509,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
 				}
 			]
 		},
@@ -523,7 +523,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
 				}
 			]
 		},
@@ -537,7 +537,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
 				}
 			]
 		},
@@ -551,7 +551,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
 				}
 			]
 		},
@@ -565,7 +565,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
 				}
 			]
 		},
@@ -579,7 +579,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements"
 				}
 			]
 		},
@@ -593,7 +593,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/header"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/header"
 				}
 			]
 		},
@@ -607,7 +607,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/footer"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/footer"
 				}
 			]
 		},
@@ -621,7 +621,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/address"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/address"
 				}
 			]
 		},
@@ -635,7 +635,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/p"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/p"
 				}
 			]
 		},
@@ -671,7 +671,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/hr"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/hr"
 				}
 			]
 		},
@@ -698,7 +698,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/pre"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/pre"
 				}
 			]
 		},
@@ -720,7 +720,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/blockquote"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/blockquote"
 				}
 			]
 		},
@@ -762,7 +762,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/ol"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/ol"
 				}
 			]
 		},
@@ -781,7 +781,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/ul"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/ul"
 				}
 			]
 		},
@@ -807,7 +807,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/li"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/li"
 				}
 			]
 		},
@@ -821,7 +821,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/dl"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/dl"
 				}
 			]
 		},
@@ -835,7 +835,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/dt"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/dt"
 				}
 			]
 		},
@@ -854,7 +854,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/dd"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/dd"
 				}
 			]
 		},
@@ -868,7 +868,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/figure"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/figure"
 				}
 			]
 		},
@@ -882,7 +882,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/figcaption"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/figcaption"
 				}
 			]
 		},
@@ -896,7 +896,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/main"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/main"
 				}
 			]
 		},
@@ -910,7 +910,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/div"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/div"
 				}
 			]
 		},
@@ -979,7 +979,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/a"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/a"
 				}
 			]
 		},
@@ -993,7 +993,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/em"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/em"
 				}
 			]
 		},
@@ -1007,7 +1007,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/strong"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/strong"
 				}
 			]
 		},
@@ -1021,7 +1021,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/small"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/small"
 				}
 			]
 		},
@@ -1035,7 +1035,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/s"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/s"
 				}
 			]
 		},
@@ -1049,7 +1049,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/cite"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/cite"
 				}
 			]
 		},
@@ -1071,7 +1071,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/q"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/q"
 				}
 			]
 		},
@@ -1085,7 +1085,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/dfn"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/dfn"
 				}
 			]
 		},
@@ -1099,7 +1099,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/abbr"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/abbr"
 				}
 			]
 		},
@@ -1113,7 +1113,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/ruby"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/ruby"
 				}
 			]
 		},
@@ -1127,7 +1127,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/rb"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/rb"
 				}
 			]
 		},
@@ -1141,7 +1141,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/rt"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/rt"
 				}
 			]
 		},
@@ -1155,7 +1155,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/rp"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/rp"
 				}
 			]
 		},
@@ -1177,7 +1177,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/time"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/time"
 				}
 			]
 		},
@@ -1191,7 +1191,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/code"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/code"
 				}
 			]
 		},
@@ -1205,7 +1205,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/var"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/var"
 				}
 			]
 		},
@@ -1219,7 +1219,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/samp"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/samp"
 				}
 			]
 		},
@@ -1233,7 +1233,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/kbd"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/kbd"
 				}
 			]
 		},
@@ -1247,7 +1247,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/sub"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/sub"
 				}
 			]
 		},
@@ -1261,7 +1261,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/sup"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/sup"
 				}
 			]
 		},
@@ -1275,7 +1275,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/i"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/i"
 				}
 			]
 		},
@@ -1289,7 +1289,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/b"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/b"
 				}
 			]
 		},
@@ -1303,7 +1303,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/u"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/u"
 				}
 			]
 		},
@@ -1317,7 +1317,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/mark"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/mark"
 				}
 			]
 		},
@@ -1331,7 +1331,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/bdi"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/bdi"
 				}
 			]
 		},
@@ -1350,7 +1350,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/bdo"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/bdo"
 				}
 			]
 		},
@@ -1364,7 +1364,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/span"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/span"
 				}
 			]
 		},
@@ -1384,7 +1384,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/br"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/br"
 				}
 			]
 		},
@@ -1399,7 +1399,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/wbr"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/wbr"
 				}
 			]
 		},
@@ -1422,7 +1422,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/ins"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/ins"
 				}
 			]
 		},
@@ -1451,7 +1451,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/del"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/del"
 				}
 			]
 		},
@@ -1465,7 +1465,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/picture"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/picture"
 				}
 			]
 		},
@@ -1582,7 +1582,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/img"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/img"
 				}
 			]
 		},
@@ -1676,7 +1676,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/iframe"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/iframe"
 				}
 			]
 		},
@@ -1720,7 +1720,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/embed"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/embed"
 				}
 			]
 		},
@@ -1824,7 +1824,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/object"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/object"
 				}
 			]
 		},
@@ -1862,7 +1862,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/param"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/param"
 				}
 			]
 		},
@@ -1920,7 +1920,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/video"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/video"
 				}
 			]
 		},
@@ -1993,7 +1993,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/audio"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/audio"
 				}
 			]
 		},
@@ -2035,7 +2035,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/source"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/source"
 				}
 			]
 		},
@@ -2088,7 +2088,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/track"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/track"
 				}
 			]
 		},
@@ -2110,7 +2110,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/map"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/map"
 				}
 			]
 		},
@@ -2162,7 +2162,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/area"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/area"
 				}
 			]
 		},
@@ -2184,7 +2184,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/table"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/table"
 				}
 			]
 		},
@@ -2203,7 +2203,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/caption"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/caption"
 				}
 			]
 		},
@@ -2225,7 +2225,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/colgroup"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/colgroup"
 				}
 			]
 		},
@@ -2248,7 +2248,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/col"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/col"
 				}
 			]
 		},
@@ -2267,7 +2267,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/tbody"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/tbody"
 				}
 			]
 		},
@@ -2286,7 +2286,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/thead"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/thead"
 				}
 			]
 		},
@@ -2305,7 +2305,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/tfoot"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/tfoot"
 				}
 			]
 		},
@@ -2324,7 +2324,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/tr"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/tr"
 				}
 			]
 		},
@@ -2364,7 +2364,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/td"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/td"
 				}
 			]
 		},
@@ -2414,7 +2414,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/th"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/th"
 				}
 			]
 		},
@@ -2498,7 +2498,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/form"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/form"
 				}
 			]
 		},
@@ -2527,7 +2527,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/label"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/label"
 				}
 			]
 		},
@@ -2651,7 +2651,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/input"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/input"
 				}
 			]
 		},
@@ -2753,7 +2753,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/button"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/button"
 				}
 			]
 		},
@@ -2829,7 +2829,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/select"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/select"
 				}
 			]
 		},
@@ -2843,7 +2843,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/datalist"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/datalist"
 				}
 			]
 		},
@@ -2873,7 +2873,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/optgroup"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/optgroup"
 				}
 			]
 		},
@@ -2918,7 +2918,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/option"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/option"
 				}
 			]
 		},
@@ -3045,7 +3045,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/textarea"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/textarea"
 				}
 			]
 		},
@@ -3081,7 +3081,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/output"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/output"
 				}
 			]
 		},
@@ -3110,7 +3110,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/progress"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/progress"
 				}
 			]
 		},
@@ -3171,7 +3171,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/meter"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/meter"
 				}
 			]
 		},
@@ -3208,7 +3208,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/fieldset"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/fieldset"
 				}
 			]
 		},
@@ -3222,7 +3222,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/legend"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/legend"
 				}
 			]
 		},
@@ -3245,7 +3245,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/details"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/details"
 				}
 			]
 		},
@@ -3259,7 +3259,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/summary"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/summary"
 				}
 			]
 		},
@@ -3278,7 +3278,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/dialog"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/dialog"
 				}
 			]
 		},
@@ -3357,7 +3357,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/script"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/script"
 				}
 			]
 		},
@@ -3371,7 +3371,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/noscript"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/noscript"
 				}
 			]
 		},
@@ -3385,7 +3385,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/template"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/template"
 				}
 			]
 		},
@@ -3418,7 +3418,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/canvas"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/canvas"
 				}
 			]
 		},
@@ -3440,7 +3440,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/slot"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/slot"
 				}
 			]
 		},
@@ -3462,7 +3462,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/data"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/data"
 				}
 			]
 		},
@@ -3476,7 +3476,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/hgroup"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/hgroup"
 				}
 			]
 		},
@@ -3490,7 +3490,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Element/menu"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Element/menu"
 				}
 			]
 		}
@@ -3505,7 +3505,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/accesskey"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/accesskey"
 				}
 			]
 		},
@@ -3518,7 +3518,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/autocapitalize"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/autocapitalize"
 				}
 			]
 		},
@@ -3531,7 +3531,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/class"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/class"
 				}
 			]
 		},
@@ -3544,7 +3544,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/contenteditable"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/contenteditable"
 				}
 			]
 		},
@@ -3565,7 +3565,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/dir"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/dir"
 				}
 			]
 		},
@@ -3579,7 +3579,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/draggable"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/draggable"
 				}
 			]
 		},
@@ -3599,7 +3599,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/exportparts"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/exportparts"
 				}
 			]
 		},
@@ -3613,7 +3613,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/hidden"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/hidden"
 				}
 			]
 		},
@@ -3626,7 +3626,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/id"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/id"
 				}
 			]
 		},
@@ -3639,7 +3639,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/inputmode"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/inputmode"
 				}
 			]
 		},
@@ -3652,7 +3652,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/is"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/is"
 				}
 			]
 		},
@@ -3701,7 +3701,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/lang"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/lang"
 				}
 			]
 		},
@@ -3714,7 +3714,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/part"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/part"
 				}
 			]
 		},
@@ -3731,7 +3731,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/slot"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/slot"
 				}
 			]
 		},
@@ -3745,7 +3745,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/spellcheck"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/spellcheck"
 				}
 			]
 		},
@@ -3758,7 +3758,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/style"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/style"
 				}
 			]
 		},
@@ -3771,7 +3771,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/tabindex"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/tabindex"
 				}
 			]
 		},
@@ -3784,7 +3784,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/title"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/title"
 				}
 			]
 		},
@@ -3798,7 +3798,7 @@
 			"references": [
 				{
 					"name": "MDN Reference",
-					"url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes/translate"
+					"url": "HTTPS://developer.mozilla.org/docs/Web/HTML/Global_attributes/translate"
 				}
 			]
 		},
@@ -4271,7 +4271,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-activedescendant"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-activedescendant"
 				}
 			],
 			"description": {
@@ -4285,7 +4285,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-atomic"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-atomic"
 				}
 			],
 			"description": {
@@ -4299,7 +4299,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-autocomplete"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-autocomplete"
 				}
 			],
 			"description": {
@@ -4313,7 +4313,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-busy"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-busy"
 				}
 			],
 			"description": {
@@ -4327,7 +4327,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-checked"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-checked"
 				}
 			],
 			"description": {
@@ -4340,7 +4340,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-colcount"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-colcount"
 				}
 			],
 			"description": {
@@ -4353,7 +4353,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-colindex"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-colindex"
 				}
 			],
 			"description": {
@@ -4366,7 +4366,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-colspan"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-colspan"
 				}
 			],
 			"description": {
@@ -4379,7 +4379,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-controls"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-controls"
 				}
 			],
 			"description": {
@@ -4393,7 +4393,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-current"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-current"
 				}
 			],
 			"description": {
@@ -4406,7 +4406,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-describedby"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-describedby"
 				}
 			],
 			"description": {
@@ -4420,7 +4420,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-disabled"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-disabled"
 				}
 			],
 			"description": {
@@ -4434,7 +4434,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-dropeffect"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-dropeffect"
 				}
 			],
 			"description": {
@@ -4447,7 +4447,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-errormessage"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-errormessage"
 				}
 			],
 			"description": {
@@ -4461,7 +4461,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-expanded"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-expanded"
 				}
 			],
 			"description": {
@@ -4474,7 +4474,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-flowto"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-flowto"
 				}
 			],
 			"description": {
@@ -4488,7 +4488,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-grabbed"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-grabbed"
 				}
 			],
 			"description": {
@@ -4502,7 +4502,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-haspopup"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-haspopup"
 				}
 			],
 			"description": {
@@ -4516,7 +4516,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-hidden"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-hidden"
 				}
 			],
 			"description": {
@@ -4530,7 +4530,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-invalid"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-invalid"
 				}
 			],
 			"description": {
@@ -4543,7 +4543,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-label"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-label"
 				}
 			],
 			"description": {
@@ -4556,7 +4556,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-labelledby"
 				}
 			],
 			"description": {
@@ -4569,7 +4569,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-level"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-level"
 				}
 			],
 			"description": {
@@ -4583,7 +4583,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-live"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-live"
 				}
 			],
 			"description": {
@@ -4597,7 +4597,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-modal"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-modal"
 				}
 			],
 			"description": {
@@ -4611,7 +4611,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-multiline"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-multiline"
 				}
 			],
 			"description": {
@@ -4625,7 +4625,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-multiselectable"
 				}
 			],
 			"description": {
@@ -4639,7 +4639,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-orientation"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-orientation"
 				}
 			],
 			"description": {
@@ -4652,7 +4652,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-owns"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-owns"
 				}
 			],
 			"description": {
@@ -4665,7 +4665,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-placeholder"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-placeholder"
 				}
 			],
 			"description": {
@@ -4678,7 +4678,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-posinset"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-posinset"
 				}
 			],
 			"description": {
@@ -4692,7 +4692,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-pressed"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-pressed"
 				}
 			],
 			"description": {
@@ -4706,7 +4706,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-readonly"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-readonly"
 				}
 			],
 			"description": {
@@ -4720,7 +4720,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-relevant"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-relevant"
 				}
 			],
 			"description": {
@@ -4734,7 +4734,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-required"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-required"
 				}
 			],
 			"description": {
@@ -4747,7 +4747,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-roledescription"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-roledescription"
 				}
 			],
 			"description": {
@@ -4760,7 +4760,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-rowcount"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-rowcount"
 				}
 			],
 			"description": {
@@ -4773,7 +4773,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-rowindex"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-rowindex"
 				}
 			],
 			"description": {
@@ -4786,7 +4786,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-rowspan"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-rowspan"
 				}
 			],
 			"description": {
@@ -4800,7 +4800,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-selected"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-selected"
 				}
 			],
 			"description": {
@@ -4813,7 +4813,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-setsize"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-setsize"
 				}
 			],
 			"description": {
@@ -4827,7 +4827,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-sort"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-sort"
 				}
 			],
 			"description": {
@@ -4840,7 +4840,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuemax"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-valuemax"
 				}
 			],
 			"description": {
@@ -4853,7 +4853,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuemin"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-valuemin"
 				}
 			],
 			"description": {
@@ -4866,7 +4866,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuenow"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-valuenow"
 				}
 			],
 			"description": {
@@ -4879,7 +4879,7 @@
 			"references": [
 				{
 					"name": "WAI-ARIA Reference",
-					"url": "https://www.w3.org/TR/wai-aria-1.1/#aria-valuetext"
+					"url": "HTTPS://www.w3.org/TR/wai-aria-1.1/#aria-valuetext"
 				}
 			],
 			"description": {

@@ -9,7 +9,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementHrefAttribute"
 						}
 					]
 				},
@@ -18,7 +18,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementTargetAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementTargetAttribute"
 						}
 					]
 				},
@@ -27,7 +27,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementDownloadAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementDownloadAttribute"
 						}
 					]
 				},
@@ -36,7 +36,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementPingAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementPingAttribute"
 						}
 					]
 				},
@@ -45,7 +45,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementRelAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementRelAttribute"
 						}
 					]
 				},
@@ -54,7 +54,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementHreflangAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementHreflangAttribute"
 						}
 					]
 				},
@@ -63,7 +63,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementTypeAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementTypeAttribute"
 						}
 					]
 				},
@@ -72,7 +72,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/linking.html#AElementReferrerpolicyAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementReferrerpolicyAttribute"
 						}
 					]
 				}
@@ -90,7 +90,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElement"
 				}
 			]
 		},
@@ -109,7 +109,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#HTMLElements"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#HTMLElements"
 				}
 			]
 		},
@@ -121,7 +121,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				}
@@ -138,7 +138,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#HTMLElements"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#HTMLElements"
 				}
 			]
 		},
@@ -150,7 +150,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				}
@@ -167,7 +167,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#CircleElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#CircleElement"
 				}
 			]
 		},
@@ -184,7 +184,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#DefsElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#DefsElement"
 				}
 			]
 		},
@@ -199,7 +199,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#DescElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#DescElement"
 				}
 			]
 		},
@@ -211,7 +211,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				}
@@ -228,7 +228,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#EllipseElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#EllipseElement"
 				}
 			]
 		},
@@ -247,7 +247,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#ForeignObjectElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#ForeignObjectElement"
 				}
 			]
 		},
@@ -266,7 +266,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#GElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#GElement"
 				}
 			]
 		},
@@ -285,7 +285,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#UnknownElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#UnknownElement"
 				}
 			]
 		},
@@ -304,7 +304,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#HTMLElements"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#HTMLElements"
 				}
 			]
 		},
@@ -316,7 +316,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				},
@@ -325,7 +325,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/embedded.html#ImageElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#ImageElementHrefAttribute"
 						}
 					]
 				},
@@ -334,7 +334,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/embedded.html#ImageElementCrossoriginAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#ImageElementCrossoriginAttribute"
 						}
 					]
 				}
@@ -352,7 +352,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#ImageElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#ImageElement"
 				}
 			]
 		},
@@ -364,7 +364,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				},
@@ -373,7 +373,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementX1Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementX1Attribute"
 						}
 					]
 				},
@@ -382,7 +382,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementY1Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementY1Attribute"
 						}
 					]
 				},
@@ -391,7 +391,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementX2Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementX2Attribute"
 						}
 					]
 				},
@@ -400,7 +400,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementY2Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementY2Attribute"
 						}
 					]
 				}
@@ -417,7 +417,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#LineElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElement"
 				}
 			]
 		},
@@ -429,7 +429,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementX1Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementX1Attribute"
 						}
 					]
 				},
@@ -438,7 +438,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementY1Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementY1Attribute"
 						}
 					]
 				},
@@ -447,7 +447,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementX2Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementX2Attribute"
 						}
 					]
 				},
@@ -456,7 +456,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementY2Attribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementY2Attribute"
 						}
 					]
 				},
@@ -465,7 +465,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientUnitsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientUnitsAttribute"
 						}
 					]
 				},
@@ -474,7 +474,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientTransformAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientTransformAttribute"
 						}
 					]
 				},
@@ -483,7 +483,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementSpreadMethodAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementSpreadMethodAttribute"
 						}
 					]
 				},
@@ -492,7 +492,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementHrefAttribute"
 						}
 					]
 				}
@@ -507,7 +507,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElement"
 				}
 			]
 		},
@@ -519,7 +519,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
 						}
 					]
 				},
@@ -528,7 +528,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				},
@@ -537,7 +537,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/painting.html#MarkerElementRefXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerElementRefXAttribute"
 						}
 					]
 				},
@@ -546,7 +546,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/painting.html#MarkerElementRefYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerElementRefYAttribute"
 						}
 					]
 				},
@@ -555,7 +555,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/painting.html#MarkerUnitsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerUnitsAttribute"
 						}
 					]
 				},
@@ -564,7 +564,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/painting.html#MarkerWidthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerWidthAttribute"
 						}
 					]
 				},
@@ -573,7 +573,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/painting.html#MarkerHeightAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerHeightAttribute"
 						}
 					]
 				},
@@ -582,7 +582,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/painting.html#OrientAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/painting.html#OrientAttribute"
 						}
 					]
 				}
@@ -596,7 +596,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerElement"
 				}
 			]
 		},
@@ -611,7 +611,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#MetadataElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#MetadataElement"
 				}
 			]
 		},
@@ -623,7 +623,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				}
@@ -640,7 +640,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/paths.html#PathElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathElement"
 				}
 			]
 		},
@@ -652,7 +652,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
 						}
 					]
 				},
@@ -661,7 +661,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				},
@@ -670,7 +670,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementXAttribute"
 						}
 					]
 				},
@@ -679,7 +679,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementYAttribute"
 						}
 					]
 				},
@@ -688,7 +688,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementWidthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementWidthAttribute"
 						}
 					]
 				},
@@ -697,7 +697,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementHeightAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementHeightAttribute"
 						}
 					]
 				},
@@ -706,7 +706,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementPatternUnitsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementPatternUnitsAttribute"
 						}
 					]
 				},
@@ -715,7 +715,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementPatternContentUnitsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementPatternContentUnitsAttribute"
 						}
 					]
 				},
@@ -724,7 +724,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementPatternTransformAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementPatternTransformAttribute"
 						}
 					]
 				},
@@ -733,7 +733,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementHrefAttribute"
 						}
 					]
 				}
@@ -747,7 +747,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElement"
 				}
 			]
 		},
@@ -759,7 +759,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				},
@@ -768,7 +768,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/shapes.html#PolygonElementPointsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#PolygonElementPointsAttribute"
 						}
 					]
 				}
@@ -785,7 +785,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#PolygonElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#PolygonElement"
 				}
 			]
 		},
@@ -797,7 +797,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				},
@@ -806,7 +806,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/shapes.html#PolylineElementPointsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#PolylineElementPointsAttribute"
 						}
 					]
 				}
@@ -823,7 +823,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#PolylineElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#PolylineElement"
 				}
 			]
 		},
@@ -835,7 +835,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCXAttribute"
 						}
 					]
 				},
@@ -844,7 +844,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCYAttribute"
 						}
 					]
 				},
@@ -853,7 +853,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementRAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementRAttribute"
 						}
 					]
 				},
@@ -862,7 +862,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFXAttribute"
 						}
 					]
 				},
@@ -871,7 +871,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFYAttribute"
 						}
 					]
 				},
@@ -880,7 +880,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFRAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFRAttribute"
 						}
 					]
 				},
@@ -889,7 +889,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementGradientUnitsAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementGradientUnitsAttribute"
 						}
 					]
 				},
@@ -898,7 +898,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementGradientTransformAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementGradientTransformAttribute"
 						}
 					]
 				},
@@ -907,7 +907,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementSpreadMethodAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementSpreadMethodAttribute"
 						}
 					]
 				},
@@ -916,7 +916,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementHrefAttribute"
 						}
 					]
 				}
@@ -931,7 +931,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElement"
 				}
 			]
 		},
@@ -943,7 +943,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 						}
 					]
 				}
@@ -960,7 +960,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#RectElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#RectElement"
 				}
 			]
 		},
@@ -972,7 +972,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/interact.html#ScriptElementTypeAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ScriptElementTypeAttribute"
 						}
 					]
 				},
@@ -981,7 +981,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/interact.html#ScriptElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ScriptElementHrefAttribute"
 						}
 					]
 				},
@@ -990,7 +990,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/interact.html#ScriptElementCrossoriginAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ScriptElementCrossoriginAttribute"
 						}
 					]
 				}
@@ -1004,7 +1004,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/interact.html#ScriptElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ScriptElement"
 				}
 			]
 		},
@@ -1016,7 +1016,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/pservers.html#StopElementOffsetAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopElementOffsetAttribute"
 						}
 					]
 				}
@@ -1030,7 +1030,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#StopElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopElement"
 				}
 			]
 		},
@@ -1042,7 +1042,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/styling.html#StyleElementTypeAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/styling.html#StyleElementTypeAttribute"
 						}
 					]
 				},
@@ -1051,7 +1051,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/styling.html#StyleElementMediaAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/styling.html#StyleElementMediaAttribute"
 						}
 					]
 				},
@@ -1060,7 +1060,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/styling.html#StyleElementTitleAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/styling.html#StyleElementTitleAttribute"
 						}
 					]
 				}
@@ -1073,7 +1073,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/styling.html#StyleElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/styling.html#StyleElement"
 				}
 			]
 		},
@@ -1085,7 +1085,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
 						}
 					]
 				},
@@ -1094,7 +1094,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				},
@@ -1103,7 +1103,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/interact.html#ZoomAndPanAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ZoomAndPanAttribute"
 						}
 					]
 				},
@@ -1112,7 +1112,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#TransformProperty"
 						}
 					]
 				}
@@ -1130,7 +1130,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#SVGElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#SVGElement"
 				}
 			]
 		},
@@ -1149,7 +1149,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#SwitchElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#SwitchElement"
 				}
 			]
 		},
@@ -1161,7 +1161,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				},
@@ -1170,7 +1170,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
 						}
 					]
 				},
@@ -1179,7 +1179,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/struct.html#SymbolElementRefXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/struct.html#SymbolElementRefXAttribute"
 						}
 					]
 				},
@@ -1188,7 +1188,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/struct.html#SymbolElementRefYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/struct.html#SymbolElementRefYAttribute"
 						}
 					]
 				}
@@ -1204,7 +1204,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#SymbolElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#SymbolElement"
 				}
 			]
 		},
@@ -1216,7 +1216,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
 						}
 					]
 				},
@@ -1225,7 +1225,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementXAttribute"
 						}
 					]
 				},
@@ -1234,7 +1234,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementYAttribute"
 						}
 					]
 				},
@@ -1243,7 +1243,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementDXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementDXAttribute"
 						}
 					]
 				},
@@ -1252,7 +1252,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementDYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementDYAttribute"
 						}
 					]
 				},
@@ -1261,7 +1261,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementRotateAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementRotateAttribute"
 						}
 					]
 				},
@@ -1270,7 +1270,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
 						}
 					]
 				}
@@ -1287,7 +1287,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElement"
 				}
 			]
 		},
@@ -1299,7 +1299,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
 						}
 					]
 				},
@@ -1308,7 +1308,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
 						}
 					]
 				},
@@ -1317,7 +1317,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementPathAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementPathAttribute"
 						}
 					]
 				},
@@ -1326,7 +1326,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementHrefAttribute"
 						}
 					]
 				},
@@ -1335,7 +1335,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementStartOffsetAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementStartOffsetAttribute"
 						}
 					]
 				},
@@ -1344,7 +1344,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementMethodAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementMethodAttribute"
 						}
 					]
 				},
@@ -1353,7 +1353,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementSpacingAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementSpacingAttribute"
 						}
 					]
 				},
@@ -1362,7 +1362,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementSideAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementSideAttribute"
 						}
 					]
 				}
@@ -1380,7 +1380,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextPathElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElement"
 				}
 			]
 		},
@@ -1395,7 +1395,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#TitleElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#TitleElement"
 				}
 			]
 		},
@@ -1407,7 +1407,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementXAttribute"
 						}
 					]
 				},
@@ -1416,7 +1416,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementYAttribute"
 						}
 					]
 				},
@@ -1425,7 +1425,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementDXAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementDXAttribute"
 						}
 					]
 				},
@@ -1434,7 +1434,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementDYAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementDYAttribute"
 						}
 					]
 				},
@@ -1443,7 +1443,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementRotateAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementRotateAttribute"
 						}
 					]
 				},
@@ -1452,7 +1452,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
 						}
 					]
 				},
@@ -1461,7 +1461,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
 						}
 					]
 				}
@@ -1478,7 +1478,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElement"
 				}
 			]
 		},
@@ -1490,7 +1490,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/struct.html#UseElementHrefAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/struct.html#UseElementHrefAttribute"
 						}
 					]
 				}
@@ -1508,7 +1508,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/struct.html#UseElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/struct.html#UseElement"
 				}
 			]
 		},
@@ -1527,7 +1527,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#HTMLElements"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#HTMLElements"
 				}
 			]
 		},
@@ -1539,7 +1539,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
 						}
 					]
 				},
@@ -1548,7 +1548,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 						}
 					]
 				},
@@ -1557,7 +1557,7 @@
 					"references": [
 						{
 							"name": "SVG Spec",
-							"url": "https://www.w3.org/TR/SVG/interact.html#ZoomAndPanAttribute"
+							"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ZoomAndPanAttribute"
 						}
 					]
 				}
@@ -1571,7 +1571,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#ViewElement"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#ViewElement"
 				}
 			]
 		}
@@ -1582,7 +1582,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementXAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementXAttribute"
 				}
 			]
 		},
@@ -1591,7 +1591,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementYAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementYAttribute"
 				}
 			]
 		},
@@ -1600,7 +1600,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementDXAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementDXAttribute"
 				}
 			]
 		},
@@ -1609,7 +1609,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementDYAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementDYAttribute"
 				}
 			]
 		},
@@ -1618,7 +1618,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementRotateAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementRotateAttribute"
 				}
 			]
 		},
@@ -1627,7 +1627,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementTextLengthAttribute"
 				}
 			]
 		},
@@ -1636,7 +1636,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextElementLengthAdjustAttribute"
 				}
 			]
 		},
@@ -1645,7 +1645,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#ViewBoxAttribute"
 				}
 			]
 		},
@@ -1654,7 +1654,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#PreserveAspectRatioAttribute"
 				}
 			]
 		},
@@ -1663,7 +1663,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/interact.html#ZoomAndPanAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/interact.html#ZoomAndPanAttribute"
 				}
 			]
 		},
@@ -1672,7 +1672,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/paths.html#PathLengthAttribute"
 				}
 			]
 		},
@@ -1681,7 +1681,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementHrefAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementHrefAttribute"
 				}
 			]
 		},
@@ -1690,7 +1690,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementTargetAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementTargetAttribute"
 				}
 			]
 		},
@@ -1699,7 +1699,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementDownloadAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementDownloadAttribute"
 				}
 			]
 		},
@@ -1708,7 +1708,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementPingAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementPingAttribute"
 				}
 			]
 		},
@@ -1717,7 +1717,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementRelAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementRelAttribute"
 				}
 			]
 		},
@@ -1726,7 +1726,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementHreflangAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementHreflangAttribute"
 				}
 			]
 		},
@@ -1735,7 +1735,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementTypeAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementTypeAttribute"
 				}
 			]
 		},
@@ -1744,7 +1744,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/linking.html#AElementReferrerpolicyAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/linking.html#AElementReferrerpolicyAttribute"
 				}
 			]
 		},
@@ -1753,7 +1753,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/embedded.html#ImageElementCrossoriginAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/embedded.html#ImageElementCrossoriginAttribute"
 				}
 			]
 		},
@@ -1762,7 +1762,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementX1Attribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementX1Attribute"
 				}
 			]
 		},
@@ -1771,7 +1771,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementY1Attribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementY1Attribute"
 				}
 			]
 		},
@@ -1780,7 +1780,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementX2Attribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementX2Attribute"
 				}
 			]
 		},
@@ -1789,7 +1789,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#LineElementY2Attribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#LineElementY2Attribute"
 				}
 			]
 		},
@@ -1798,7 +1798,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientUnitsAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientUnitsAttribute"
 				}
 			]
 		},
@@ -1807,7 +1807,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientTransformAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementGradientTransformAttribute"
 				}
 			]
 		},
@@ -1816,7 +1816,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#LinearGradientElementSpreadMethodAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#LinearGradientElementSpreadMethodAttribute"
 				}
 			]
 		},
@@ -1825,7 +1825,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerElementRefXAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerElementRefXAttribute"
 				}
 			]
 		},
@@ -1834,7 +1834,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerElementRefYAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerElementRefYAttribute"
 				}
 			]
 		},
@@ -1843,7 +1843,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerUnitsAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerUnitsAttribute"
 				}
 			]
 		},
@@ -1852,7 +1852,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerWidthAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerWidthAttribute"
 				}
 			]
 		},
@@ -1861,7 +1861,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerHeightAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerHeightAttribute"
 				}
 			]
 		},
@@ -1870,7 +1870,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#OrientAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#OrientAttribute"
 				}
 			]
 		},
@@ -1879,7 +1879,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementWidthAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementWidthAttribute"
 				}
 			]
 		},
@@ -1888,7 +1888,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementHeightAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementHeightAttribute"
 				}
 			]
 		},
@@ -1897,7 +1897,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementPatternUnitsAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementPatternUnitsAttribute"
 				}
 			]
 		},
@@ -1906,7 +1906,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementPatternContentUnitsAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementPatternContentUnitsAttribute"
 				}
 			]
 		},
@@ -1915,7 +1915,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#PatternElementPatternTransformAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#PatternElementPatternTransformAttribute"
 				}
 			]
 		},
@@ -1924,7 +1924,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/shapes.html#PolygonElementPointsAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/shapes.html#PolygonElementPointsAttribute"
 				}
 			]
 		},
@@ -1933,7 +1933,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCXAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCXAttribute"
 				}
 			]
 		},
@@ -1942,7 +1942,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCYAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementCYAttribute"
 				}
 			]
 		},
@@ -1951,7 +1951,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementRAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementRAttribute"
 				}
 			]
 		},
@@ -1960,7 +1960,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFXAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFXAttribute"
 				}
 			]
 		},
@@ -1969,7 +1969,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFYAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFYAttribute"
 				}
 			]
 		},
@@ -1978,7 +1978,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFRAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#RadialGradientElementFRAttribute"
 				}
 			]
 		},
@@ -1987,7 +1987,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#StopElementOffsetAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopElementOffsetAttribute"
 				}
 			]
 		},
@@ -1996,7 +1996,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/styling.html#StyleElementMediaAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/styling.html#StyleElementMediaAttribute"
 				}
 			]
 		},
@@ -2005,7 +2005,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/styling.html#StyleElementTitleAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/styling.html#StyleElementTitleAttribute"
 				}
 			]
 		},
@@ -2014,7 +2014,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#TransformProperty"
 				}
 			]
 		},
@@ -2023,7 +2023,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementPathAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementPathAttribute"
 				}
 			]
 		},
@@ -2032,7 +2032,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementStartOffsetAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementStartOffsetAttribute"
 				}
 			]
 		},
@@ -2041,7 +2041,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementMethodAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementMethodAttribute"
 				}
 			]
 		},
@@ -2050,7 +2050,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementSpacingAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementSpacingAttribute"
 				}
 			]
 		},
@@ -2059,7 +2059,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextPathElementSideAttribute"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextPathElementSideAttribute"
 				}
 			]
 		}

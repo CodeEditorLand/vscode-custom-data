@@ -6,7 +6,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
 				}
 			]
 		},
@@ -15,7 +15,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
 				}
 			]
 		},
@@ -24,7 +24,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ColorProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ColorProperty"
 				}
 			],
 			"status": "standard",
@@ -35,7 +35,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
 				}
 			]
 		},
@@ -44,7 +44,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
 				}
 			]
 		},
@@ -53,7 +53,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-ui-3/#cursor"
+					"url": "HTTPS://www.w3.org/TR/css-ui-3/#cursor"
 				}
 			],
 			"status": "standard",
@@ -64,7 +64,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
 				}
 			]
 		},
@@ -73,7 +73,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#FillProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#FillProperty"
 				}
 			]
 		},
@@ -82,7 +82,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
 				}
 			]
 		},
@@ -91,7 +91,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
 				}
 			]
 		},
@@ -100,7 +100,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
 				}
 			]
 		},
@@ -109,7 +109,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
 				}
 			]
 		},
@@ -118,7 +118,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
 				}
 			],
 			"status": "standard",
@@ -130,7 +130,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
 				}
 			],
 			"status": "standard",
@@ -142,7 +142,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerProperty"
 				}
 			]
 		},
@@ -151,7 +151,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
 				}
 			]
 		},
@@ -160,7 +160,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
 				}
 			]
 		},
@@ -169,7 +169,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
 				}
 			]
 		},
@@ -178,7 +178,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
 				}
 			],
 			"status": "standard",
@@ -189,7 +189,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
 				}
 			],
 			"status": "standard",
@@ -201,7 +201,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
 				}
 			],
 			"status": "standard",
@@ -212,7 +212,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
 				}
 			]
 		},
@@ -221,7 +221,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
 				}
 			]
 		},
@@ -230,7 +230,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
 				}
 			]
 		},
@@ -239,7 +239,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeProperty"
 				}
 			]
 		},
@@ -248,7 +248,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
 				}
 			]
 		},
@@ -257,7 +257,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
 				}
 			]
 		},
@@ -266,7 +266,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
 				}
 			]
 		},
@@ -275,7 +275,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
 				}
 			]
 		},
@@ -284,7 +284,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
 				}
 			]
 		},
@@ -293,7 +293,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
 				}
 			]
 		},
@@ -302,7 +302,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
 				}
 			]
 		},
@@ -311,7 +311,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
 				}
 			]
 		},
@@ -320,7 +320,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
 				}
 			],
 			"status": "standard",
@@ -332,7 +332,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#TransformProperty"
 				}
 			],
 			"status": "standard",
@@ -343,7 +343,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
 				}
 			]
 		},
@@ -352,7 +352,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#XProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#XProperty"
 				}
 			]
 		},
@@ -361,7 +361,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#YProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#YProperty"
 				}
 			]
 		},
@@ -370,7 +370,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#CxProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#CxProperty"
 				}
 			]
 		},
@@ -379,7 +379,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#CyProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#CyProperty"
 				}
 			]
 		},
@@ -388,7 +388,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#RProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#RProperty"
 				}
 			]
 		},
@@ -397,7 +397,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#RxProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#RxProperty"
 				}
 			]
 		},
@@ -406,7 +406,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#RyProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#RyProperty"
 				}
 			]
 		},
@@ -415,7 +415,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/paths.html#DProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/paths.html#DProperty"
 				}
 			]
 		},
@@ -424,7 +424,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#VisibilityControl"
 				}
 			],
 			"status": "standard",
@@ -435,7 +435,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
 				}
 			],
 			"status": "standard",
@@ -446,7 +446,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#VisibilityControl"
 				}
 			],
 			"status": "standard",
@@ -457,7 +457,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#Sizing"
 				}
 			],
 			"status": "standard",
@@ -468,7 +468,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#Sizing"
 				}
 			],
 			"status": "standard",
@@ -479,7 +479,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#LineHeightProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#LineHeightProperty"
 				}
 			],
 			"status": "standard",
@@ -490,7 +490,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
 				}
 			],
 			"status": "standard",
@@ -502,7 +502,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeInside"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeInside"
 				}
 			]
 		},
@@ -511,7 +511,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeMargin"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeMargin"
 				}
 			],
 			"status": "standard",
@@ -523,7 +523,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
 				}
 			]
 		},
@@ -532,7 +532,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapePadding"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapePadding"
 				}
 			]
 		},
@@ -541,7 +541,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
 				}
 			],
 			"status": "standard",
@@ -552,7 +552,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
 				}
 			],
 			"status": "standard",
@@ -564,7 +564,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-prop"
 				}
 			],
 			"status": "standard",
@@ -575,7 +575,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-family-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-family-prop"
 				}
 			],
 			"status": "standard",
@@ -586,7 +586,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
 				}
 			],
 			"status": "standard",
@@ -597,7 +597,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-size-prop"
 				}
 			],
 			"status": "standard",
@@ -608,7 +608,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
 				}
 			],
 			"status": "standard",
@@ -620,7 +620,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
 				}
 			],
 			"status": "standard",
@@ -631,7 +631,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-style-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-style-prop"
 				}
 			],
 			"status": "standard",
@@ -642,7 +642,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
 				}
 			],
 			"status": "standard",
@@ -653,7 +653,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
 				}
 			],
 			"status": "standard",
@@ -665,7 +665,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-weight-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-weight-prop"
 				}
 			],
 			"status": "standard",
@@ -676,7 +676,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
 				}
 			],
 			"status": "standard",
@@ -688,7 +688,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#hyphens-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#hyphens-property"
 				}
 			],
 			"status": "standard",
@@ -699,7 +699,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#letter-spacing-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#letter-spacing-property"
 				}
 			],
 			"status": "standard",
@@ -710,7 +710,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#line-break-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#line-break-property"
 				}
 			],
 			"status": "standard",
@@ -721,7 +721,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#overflow-wrap-property"
 				}
 			],
 			"status": "standard",
@@ -732,7 +732,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#tab-size-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#tab-size-property"
 				}
 			],
 			"status": "standard",
@@ -744,7 +744,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-align-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-align-property"
 				}
 			],
 			"status": "standard",
@@ -755,7 +755,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-align-last-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-align-last-property"
 				}
 			],
 			"status": "standard",
@@ -766,7 +766,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-indent-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-indent-property"
 				}
 			],
 			"status": "standard",
@@ -777,7 +777,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-justify-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-justify-property"
 				}
 			],
 			"status": "standard",
@@ -789,7 +789,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-transform-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-transform-property"
 				}
 			],
 			"status": "standard",
@@ -800,7 +800,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#white-space-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#white-space-property"
 				}
 			],
 			"status": "standard",
@@ -811,7 +811,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#word-break-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#word-break-property"
 				}
 			],
 			"status": "standard",
@@ -822,7 +822,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#word-spacing-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#word-spacing-property"
 				}
 			],
 			"status": "standard",
@@ -833,7 +833,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#overflow-wrap-property"
 				}
 			],
 			"status": "standard",
@@ -844,7 +844,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-inline/#transverse-alignment"
+					"url": "HTTPS://drafts.csswg.org/css-inline/#transverse-alignment"
 				}
 			],
 			"status": "standard",
@@ -855,7 +855,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#DirectionProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#DirectionProperty"
 				}
 			],
 			"status": "standard",
@@ -866,7 +866,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
+					"url": "HTTPS://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
 				}
 			],
 			"status": "standard",
@@ -877,7 +877,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#WritingModeProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#WritingModeProperty"
 				}
 			],
 			"status": "standard",
@@ -888,7 +888,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css3-writing-modes/#text-orientation"
+					"url": "HTTPS://www.w3.org/TR/css3-writing-modes/#text-orientation"
 				}
 			],
 			"status": "standard",
@@ -900,7 +900,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
+					"url": "HTTPS://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
 				}
 			],
 			"status": "standard",
@@ -911,7 +911,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -922,7 +922,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -934,7 +934,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -946,7 +946,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -958,7 +958,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css3-images/#the-object-fit"
+					"url": "HTTPS://www.w3.org/TR/css3-images/#the-object-fit"
 				}
 			],
 			"status": "standard",
@@ -970,7 +970,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css3-images/#the-object-position"
+					"url": "HTTPS://www.w3.org/TR/css3-images/#the-object-position"
 				}
 			],
 			"status": "standard",
@@ -982,7 +982,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-ui-4/#propdef-outline"
+					"url": "HTTPS://www.w3.org/TR/css-ui-4/#propdef-outline"
 				}
 			],
 			"status": "standard",
@@ -993,7 +993,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-position-3/#propdef-position"
+					"url": "HTTPS://www.w3.org/TR/css-position-3/#propdef-position"
 				}
 			],
 			"status": "standard",
@@ -1004,7 +1004,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#propdef-text-transform"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#propdef-text-transform"
 				}
 			],
 			"status": "standard",
@@ -1015,7 +1015,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
+					"url": "HTTPS://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
 				}
 			],
 			"status": "standard",
@@ -1026,7 +1026,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
+					"url": "HTTPS://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
 				}
 			],
 			"status": "standard",
@@ -1037,7 +1037,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/CSS21/visuren.html#propdef-float"
+					"url": "HTTPS://www.w3.org/TR/CSS21/visuren.html#propdef-float"
 				}
 			],
 			"status": "standard",
@@ -1048,7 +1048,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-box-3/#propdef-margin-top"
+					"url": "HTTPS://www.w3.org/TR/css-box-3/#propdef-margin-top"
 				}
 			],
 			"status": "standard",
@@ -1059,7 +1059,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-content-3/#propdef-content"
+					"url": "HTTPS://www.w3.org/TR/css-content-3/#propdef-content"
 				}
 			],
 			"status": "standard",
@@ -1070,7 +1070,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-transforms/#transform-box"
+					"url": "HTTPS://drafts.csswg.org/css-transforms/#transform-box"
 				}
 			],
 			"status": "standard",
@@ -1082,7 +1082,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-transforms/#transform-origin-property"
+					"url": "HTTPS://drafts.csswg.org/css-transforms/#transform-origin-property"
 				}
 			],
 			"status": "standard",
@@ -1093,7 +1093,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-will-change/#will-change"
+					"url": "HTTPS://drafts.csswg.org/css-will-change/#will-change"
 				}
 			],
 			"status": "standard",
@@ -1105,7 +1105,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-backgrounds-3/#background"
+					"url": "HTTPS://drafts.csswg.org/css-backgrounds-3/#background"
 				}
 			],
 			"status": "standard",
@@ -1116,7 +1116,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-min-width"
+					"url": "HTTPS://www.w3.org/TR/css-sizing-3/#propdef-min-width"
 				}
 			],
 			"status": "standard",
@@ -1127,7 +1127,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-max-width"
+					"url": "HTTPS://www.w3.org/TR/css-sizing-3/#propdef-max-width"
 				}
 			],
 			"status": "standard",
@@ -1138,7 +1138,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
+					"url": "HTTPS://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
 				}
 			],
 			"status": "standard",
@@ -1150,7 +1150,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-shapes/#shape-outside-property"
+					"url": "HTTPS://www.w3.org/TR/css-shapes/#shape-outside-property"
 				}
 			],
 			"status": "standard",
@@ -1162,7 +1162,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#AlignmentBaselineProperty"
 				}
 			]
 		},
@@ -1171,7 +1171,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#BaselineShiftProperty"
 				}
 			]
 		},
@@ -1180,7 +1180,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ColorProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ColorProperty"
 				}
 			],
 			"status": "standard",
@@ -1191,7 +1191,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ColorInterpolationProperty"
 				}
 			]
 		},
@@ -1200,7 +1200,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ColorRenderingProperty"
 				}
 			]
 		},
@@ -1209,7 +1209,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-ui-3/#cursor"
+					"url": "HTTPS://www.w3.org/TR/css-ui-3/#cursor"
 				}
 			],
 			"status": "standard",
@@ -1220,7 +1220,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#DominantBaselineProperty"
 				}
 			]
 		},
@@ -1229,7 +1229,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#FillProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#FillProperty"
 				}
 			]
 		},
@@ -1238,7 +1238,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#FillOpacityProperty"
 				}
 			]
 		},
@@ -1247,7 +1247,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#FillRuleProperty"
 				}
 			]
 		},
@@ -1256,7 +1256,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#GlyphOrientationHorizontalProperty"
 				}
 			]
 		},
@@ -1265,7 +1265,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#GlyphOrientationVerticalProperty"
 				}
 			]
 		},
@@ -1274,7 +1274,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ImageRenderingProperty"
 				}
 			],
 			"status": "standard",
@@ -1286,7 +1286,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#InlineSizeProperty"
 				}
 			],
 			"status": "standard",
@@ -1298,7 +1298,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerProperty"
 				}
 			]
 		},
@@ -1307,7 +1307,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerEndProperty"
 				}
 			]
 		},
@@ -1316,7 +1316,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerMidProperty"
 				}
 			]
 		},
@@ -1325,7 +1325,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#MarkerStartProperty"
 				}
 			]
 		},
@@ -1334,7 +1334,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#OverflowAndClipProperties"
 				}
 			],
 			"status": "standard",
@@ -1345,7 +1345,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#PaintOrderProperty"
 				}
 			],
 			"status": "standard",
@@ -1357,7 +1357,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/interact.html#PointerEventsProperty"
 				}
 			],
 			"status": "standard",
@@ -1368,7 +1368,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#ShapeRenderingProperty"
 				}
 			]
 		},
@@ -1377,7 +1377,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopColorProperty"
 				}
 			]
 		},
@@ -1386,7 +1386,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/pservers.html#StopOpacityProperty"
 				}
 			]
 		},
@@ -1395,7 +1395,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeProperty"
 				}
 			]
 		},
@@ -1404,7 +1404,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeDasharrayProperty"
 				}
 			]
 		},
@@ -1413,7 +1413,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeDashoffsetProperty"
 				}
 			]
 		},
@@ -1422,7 +1422,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeLinecapProperty"
 				}
 			]
 		},
@@ -1431,7 +1431,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeLinejoinProperty"
 				}
 			]
 		},
@@ -1440,7 +1440,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeMiterlimitProperty"
 				}
 			]
 		},
@@ -1449,7 +1449,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeOpacityProperty"
 				}
 			]
 		},
@@ -1458,7 +1458,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#StrokeWidthProperty"
 				}
 			]
 		},
@@ -1467,7 +1467,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextAnchorProperty"
 				}
 			]
 		},
@@ -1476,7 +1476,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/painting.html#TextRenderingProperty"
 				}
 			],
 			"status": "standard",
@@ -1488,7 +1488,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#TransformProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#TransformProperty"
 				}
 			],
 			"status": "standard",
@@ -1499,7 +1499,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/coords.html#VectorEffectProperty"
 				}
 			]
 		},
@@ -1508,7 +1508,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#XProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#XProperty"
 				}
 			]
 		},
@@ -1517,7 +1517,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#YProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#YProperty"
 				}
 			]
 		},
@@ -1526,7 +1526,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#CxProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#CxProperty"
 				}
 			]
 		},
@@ -1535,7 +1535,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#CyProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#CyProperty"
 				}
 			]
 		},
@@ -1544,7 +1544,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#RProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#RProperty"
 				}
 			]
 		},
@@ -1553,7 +1553,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#RxProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#RxProperty"
 				}
 			]
 		},
@@ -1562,7 +1562,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#RyProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#RyProperty"
 				}
 			]
 		},
@@ -1571,7 +1571,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/paths.html#DProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/paths.html#DProperty"
 				}
 			]
 		},
@@ -1580,7 +1580,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#VisibilityControl"
 				}
 			],
 			"status": "standard",
@@ -1591,7 +1591,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#ObjectAndGroupOpacityProperties"
 				}
 			],
 			"status": "standard",
@@ -1602,7 +1602,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/render.html#VisibilityControl"
+					"url": "HTTPS://www.w3.org/TR/SVG/render.html#VisibilityControl"
 				}
 			],
 			"status": "standard",
@@ -1613,7 +1613,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#Sizing"
 				}
 			],
 			"status": "standard",
@@ -1624,7 +1624,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/geometry.html#Sizing"
+					"url": "HTTPS://www.w3.org/TR/SVG/geometry.html#Sizing"
 				}
 			],
 			"status": "standard",
@@ -1635,7 +1635,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#LineHeightProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#LineHeightProperty"
 				}
 			],
 			"status": "standard",
@@ -1646,7 +1646,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeImageThreshold"
 				}
 			],
 			"status": "standard",
@@ -1658,7 +1658,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeInside"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeInside"
 				}
 			]
 		},
@@ -1667,7 +1667,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeMargin"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeMargin"
 				}
 			],
 			"status": "standard",
@@ -1679,7 +1679,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapeSubtract"
 				}
 			]
 		},
@@ -1688,7 +1688,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextShapePadding"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextShapePadding"
 				}
 			]
 		},
@@ -1697,7 +1697,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextOverflowProperty"
 				}
 			],
 			"status": "standard",
@@ -1708,7 +1708,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-kerning-prop"
 				}
 			],
 			"status": "standard",
@@ -1720,7 +1720,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-prop"
 				}
 			],
 			"status": "standard",
@@ -1731,7 +1731,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-family-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-family-prop"
 				}
 			],
 			"status": "standard",
@@ -1742,7 +1742,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop"
 				}
 			],
 			"status": "standard",
@@ -1753,7 +1753,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-size-prop"
 				}
 			],
 			"status": "standard",
@@ -1764,7 +1764,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-size-adjust-prop"
 				}
 			],
 			"status": "standard",
@@ -1776,7 +1776,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-stretch-prop"
 				}
 			],
 			"status": "standard",
@@ -1787,7 +1787,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-style-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-style-prop"
 				}
 			],
 			"status": "standard",
@@ -1798,7 +1798,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#propdef-font-variant"
 				}
 			],
 			"status": "standard",
@@ -1809,7 +1809,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-variant-ligatures-prop"
 				}
 			],
 			"status": "standard",
@@ -1821,7 +1821,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-fonts-3/#font-weight-prop"
+					"url": "HTTPS://www.w3.org/TR/css-fonts-3/#font-weight-prop"
 				}
 			],
 			"status": "standard",
@@ -1832,7 +1832,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#hanging-punctuation-property"
 				}
 			],
 			"status": "standard",
@@ -1844,7 +1844,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#hyphens-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#hyphens-property"
 				}
 			],
 			"status": "standard",
@@ -1855,7 +1855,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#letter-spacing-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#letter-spacing-property"
 				}
 			],
 			"status": "standard",
@@ -1866,7 +1866,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#line-break-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#line-break-property"
 				}
 			],
 			"status": "standard",
@@ -1877,7 +1877,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#overflow-wrap-property"
 				}
 			],
 			"status": "standard",
@@ -1888,7 +1888,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#tab-size-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#tab-size-property"
 				}
 			],
 			"status": "standard",
@@ -1900,7 +1900,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-align-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-align-property"
 				}
 			],
 			"status": "standard",
@@ -1911,7 +1911,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-align-last-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-align-last-property"
 				}
 			],
 			"status": "standard",
@@ -1922,7 +1922,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-indent-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-indent-property"
 				}
 			],
 			"status": "standard",
@@ -1933,7 +1933,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-justify-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-justify-property"
 				}
 			],
 			"status": "standard",
@@ -1945,7 +1945,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#text-transform-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#text-transform-property"
 				}
 			],
 			"status": "standard",
@@ -1956,7 +1956,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#white-space-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#white-space-property"
 				}
 			],
 			"status": "standard",
@@ -1967,7 +1967,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#word-break-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#word-break-property"
 				}
 			],
 			"status": "standard",
@@ -1978,7 +1978,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#word-spacing-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#word-spacing-property"
 				}
 			],
 			"status": "standard",
@@ -1989,7 +1989,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#overflow-wrap-property"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#overflow-wrap-property"
 				}
 			],
 			"status": "standard",
@@ -2000,7 +2000,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-inline/#transverse-alignment"
+					"url": "HTTPS://drafts.csswg.org/css-inline/#transverse-alignment"
 				}
 			],
 			"status": "standard",
@@ -2011,7 +2011,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#DirectionProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#DirectionProperty"
 				}
 			],
 			"status": "standard",
@@ -2022,7 +2022,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
+					"url": "HTTPS://www.w3.org/TR/css-writing-modes-3/#unicode-bidi"
 				}
 			],
 			"status": "standard",
@@ -2033,7 +2033,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#WritingModeProperty"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#WritingModeProperty"
 				}
 			],
 			"status": "standard",
@@ -2044,7 +2044,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css3-writing-modes/#text-orientation"
+					"url": "HTTPS://www.w3.org/TR/css3-writing-modes/#text-orientation"
 				}
 			],
 			"status": "standard",
@@ -2056,7 +2056,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
+					"url": "HTTPS://www.w3.org/TR/css-writing-modes-3/#text-combine-upright"
 				}
 			],
 			"status": "standard",
@@ -2067,7 +2067,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -2078,7 +2078,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -2090,7 +2090,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -2102,7 +2102,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
+					"url": "HTTPS://www.w3.org/TR/SVG/text.html#TextDecorationProperties"
 				}
 			],
 			"status": "standard",
@@ -2114,7 +2114,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css3-images/#the-object-fit"
+					"url": "HTTPS://www.w3.org/TR/css3-images/#the-object-fit"
 				}
 			],
 			"status": "standard",
@@ -2126,7 +2126,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css3-images/#the-object-position"
+					"url": "HTTPS://www.w3.org/TR/css3-images/#the-object-position"
 				}
 			],
 			"status": "standard",
@@ -2138,7 +2138,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-ui-4/#propdef-outline"
+					"url": "HTTPS://www.w3.org/TR/css-ui-4/#propdef-outline"
 				}
 			],
 			"status": "standard",
@@ -2149,7 +2149,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-position-3/#propdef-position"
+					"url": "HTTPS://www.w3.org/TR/css-position-3/#propdef-position"
 				}
 			],
 			"status": "standard",
@@ -2160,7 +2160,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-text-3/#propdef-text-transform"
+					"url": "HTTPS://www.w3.org/TR/css-text-3/#propdef-text-transform"
 				}
 			],
 			"status": "standard",
@@ -2171,7 +2171,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
+					"url": "HTTPS://www.w3.org/TR/css-backgrounds-3/#propdef-border-top-style"
 				}
 			],
 			"status": "standard",
@@ -2182,7 +2182,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
+					"url": "HTTPS://www.w3.org/TR/css-backgrounds-3/#propdef-border-style"
 				}
 			],
 			"status": "standard",
@@ -2193,7 +2193,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/CSS21/visuren.html#propdef-float"
+					"url": "HTTPS://www.w3.org/TR/CSS21/visuren.html#propdef-float"
 				}
 			],
 			"status": "standard",
@@ -2204,7 +2204,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-box-3/#propdef-margin-top"
+					"url": "HTTPS://www.w3.org/TR/css-box-3/#propdef-margin-top"
 				}
 			],
 			"status": "standard",
@@ -2215,7 +2215,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-content-3/#propdef-content"
+					"url": "HTTPS://www.w3.org/TR/css-content-3/#propdef-content"
 				}
 			],
 			"status": "standard",
@@ -2226,7 +2226,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-transforms/#transform-box"
+					"url": "HTTPS://drafts.csswg.org/css-transforms/#transform-box"
 				}
 			],
 			"status": "standard",
@@ -2238,7 +2238,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-transforms/#transform-origin-property"
+					"url": "HTTPS://drafts.csswg.org/css-transforms/#transform-origin-property"
 				}
 			],
 			"status": "standard",
@@ -2249,7 +2249,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-will-change/#will-change"
+					"url": "HTTPS://drafts.csswg.org/css-will-change/#will-change"
 				}
 			],
 			"status": "standard",
@@ -2261,7 +2261,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://drafts.csswg.org/css-backgrounds-3/#background"
+					"url": "HTTPS://drafts.csswg.org/css-backgrounds-3/#background"
 				}
 			],
 			"status": "standard",
@@ -2272,7 +2272,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-min-width"
+					"url": "HTTPS://www.w3.org/TR/css-sizing-3/#propdef-min-width"
 				}
 			],
 			"status": "standard",
@@ -2283,7 +2283,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-sizing-3/#propdef-max-width"
+					"url": "HTTPS://www.w3.org/TR/css-sizing-3/#propdef-max-width"
 				}
 			],
 			"status": "standard",
@@ -2294,7 +2294,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
+					"url": "HTTPS://www.w3.org/TR/SVG/http://dev.w3.org/csswg/css-writing-modes/#block-size"
 				}
 			],
 			"status": "standard",
@@ -2306,7 +2306,7 @@
 			"references": [
 				{
 					"name": "SVG Spec",
-					"url": "https://www.w3.org/TR/css-shapes/#shape-outside-property"
+					"url": "HTTPS://www.w3.org/TR/css-shapes/#shape-outside-property"
 				}
 			],
 			"status": "standard",
