@@ -20,7 +20,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@mdn/browser-compat-data": "5.6.27",
+		"@mdn/browser-compat-data": "5.6.28",
 		"@types/cheerio": "0.22.35",
 		"@types/got": "9.6.12",
 		"@types/node": "22.10.5",
