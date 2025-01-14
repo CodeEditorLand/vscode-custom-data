@@ -9,7 +9,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@mdn/browser-compat-data": "5.6.28",
+		"@mdn/browser-compat-data": "5.6.29",
 		"mdn-data": "2.14.0"
 	}
 }
